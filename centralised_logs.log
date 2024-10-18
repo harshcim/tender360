@@ -337,3 +337,140 @@
 2024-10-17 15:46:43,054 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
 2024-10-17 15:46:48,628 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
 2024-10-17 15:46:48,630 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 16:53:21,131 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 16:53:41,347 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-17 16:53:41,348 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-17 16:53:41,351 -- app_logs -- INFO -- Processing file 1: /tmp/tmpg2k03e3c/GEM2024B5483636_Oil And Natural Gas Corporation Limited_ FLOW METER ELECTRO MAGNETIC WATER METER_  Due 29-10-2024 160000/GeM-Bidding-6998864.pdf
+2024-10-17 16:53:41,351 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpg2k03e3c/GEM2024B5483636_Oil And Natural Gas Corporation Limited_ FLOW METER ELECTRO MAGNETIC WATER METER_  Due 29-10-2024 160000/GeM-Bidding-6998864.pdf
+2024-10-17 16:53:41,351 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpg2k03e3c/GEM2024B5483636_Oil And Natural Gas Corporation Limited_ FLOW METER ELECTRO MAGNETIC WATER METER_  Due 29-10-2024 160000/GeM-Bidding-6998864.pdf
+2024-10-17 16:53:41,829 -- pdf_extractor_logs -- DEBUG -- Extracted text from 6 pages.
+2024-10-17 16:53:41,829 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 16:53:42,245 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 16:53:42,246 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 16:54:03,427 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17.zip
+2024-10-17 16:54:03,432 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-17 16:54:03,441 -- app_logs -- INFO -- Processing file 1: /tmp/tmptg_qzmqg/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-17 16:54:03,441 -- processor_logs -- INFO -- Processing tender document: /tmp/tmptg_qzmqg/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-17 16:54:03,442 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmptg_qzmqg/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-17 16:54:03,484 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-17 16:54:03,484 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 16:54:03,537 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 16:54:03,537 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 16:54:03,538 -- app_logs -- INFO -- Processing file 2: /tmp/tmptg_qzmqg/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-17 16:54:03,538 -- processor_logs -- INFO -- Processing tender document: /tmp/tmptg_qzmqg/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-17 16:54:03,538 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmptg_qzmqg/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-17 16:54:13,989 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-17 16:54:13,989 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 16:54:20,271 -- app_logs -- INFO -- Uploaded file: GeM-Bidding-6998864.pdf
+2024-10-17 16:54:20,274 -- app_logs -- INFO -- Processing file 1: /tmp/tmpc_xf1l14/GeM-Bidding-6998864.pdf
+2024-10-17 16:54:20,274 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpc_xf1l14/GeM-Bidding-6998864.pdf
+2024-10-17 16:54:20,275 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpc_xf1l14/GeM-Bidding-6998864.pdf
+2024-10-17 16:54:20,761 -- pdf_extractor_logs -- DEBUG -- Extracted text from 6 pages.
+2024-10-17 16:54:20,761 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 16:54:21,278 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 16:54:21,278 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 16:54:29,333 -- app_logs -- INFO -- Uploaded file: Biddocument51_200KW.pdf
+2024-10-17 16:54:29,354 -- app_logs -- INFO -- Processing file 1: /tmp/tmp9gdw8xwl/Biddocument51_200KW.pdf
+2024-10-17 16:54:29,355 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp9gdw8xwl/Biddocument51_200KW.pdf
+2024-10-17 16:54:29,357 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp9gdw8xwl/Biddocument51_200KW.pdf
+2024-10-17 16:54:42,406 -- pdf_extractor_logs -- DEBUG -- Extracted text from 442 pages.
+2024-10-17 16:54:42,406 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 16:54:51,738 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 16:54:51,738 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 16:55:01,440 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 16:55:01,440 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 16:57:24,909 -- app_logs -- INFO -- Uploaded file: Tender JalgaonAndDhule.pdf
+2024-10-17 16:57:24,914 -- app_logs -- INFO -- Processing file 1: /tmp/tmpwju3ar01/Tender JalgaonAndDhule.pdf
+2024-10-17 16:57:24,914 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpwju3ar01/Tender JalgaonAndDhule.pdf
+2024-10-17 16:57:24,915 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpwju3ar01/Tender JalgaonAndDhule.pdf
+2024-10-17 16:57:36,668 -- pdf_extractor_logs -- DEBUG -- Extracted text from 187 pages.
+2024-10-17 16:57:36,669 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 16:57:46,482 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 16:57:46,483 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 16:58:15,392 -- app_logs -- INFO -- Uploaded file: work_93136.zip
+2024-10-17 16:58:15,398 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-17 16:58:15,438 -- app_logs -- INFO -- Processing file 1: /tmp/tmp7zmdjgov/Biddocument51_200KW.pdf
+2024-10-17 16:58:15,438 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp7zmdjgov/Biddocument51_200KW.pdf
+2024-10-17 16:58:15,438 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp7zmdjgov/Biddocument51_200KW.pdf
+2024-10-17 16:58:28,366 -- pdf_extractor_logs -- DEBUG -- Extracted text from 442 pages.
+2024-10-17 16:58:28,366 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 16:58:43,537 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 16:58:43,537 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:05:59,296 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-17 17:05:59,299 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-17 17:05:59,301 -- app_logs -- INFO -- Processing file 1: /tmp/tmp2136uj7r/GEM2024B5483636_Oil And Natural Gas Corporation Limited_ FLOW METER ELECTRO MAGNETIC WATER METER_  Due 29-10-2024 160000/GeM-Bidding-6998864.pdf
+2024-10-17 17:05:59,301 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp2136uj7r/GEM2024B5483636_Oil And Natural Gas Corporation Limited_ FLOW METER ELECTRO MAGNETIC WATER METER_  Due 29-10-2024 160000/GeM-Bidding-6998864.pdf
+2024-10-17 17:05:59,301 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp2136uj7r/GEM2024B5483636_Oil And Natural Gas Corporation Limited_ FLOW METER ELECTRO MAGNETIC WATER METER_  Due 29-10-2024 160000/GeM-Bidding-6998864.pdf
+2024-10-17 17:05:59,782 -- pdf_extractor_logs -- DEBUG -- Extracted text from 6 pages.
+2024-10-17 17:05:59,782 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:06:00,126 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:06:00,126 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:06:18,592 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17.zip
+2024-10-17 17:06:18,595 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-17 17:06:18,598 -- app_logs -- INFO -- Processing file 1: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXY.pdf
+2024-10-17 17:06:18,598 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXY.pdf
+2024-10-17 17:06:18,598 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXY.pdf
+2024-10-17 17:06:18,633 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-17 17:06:18,633 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:06:18,674 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:06:18,674 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:06:18,675 -- app_logs -- INFO -- Processing file 2: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXYXTrt.pdf
+2024-10-17 17:06:18,675 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXYXTrt.pdf
+2024-10-17 17:06:18,675 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXYXTrt.pdf
+2024-10-17 17:06:18,709 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-17 17:06:18,709 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:06:18,744 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:06:18,744 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:06:18,746 -- app_logs -- INFO -- Processing file 3: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnW (1).pdf
+2024-10-17 17:06:18,746 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnW (1).pdf
+2024-10-17 17:06:18,746 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnW (1).pdf
+2024-10-17 17:06:18,767 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-17 17:06:18,767 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:06:18,791 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:06:18,791 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:06:18,792 -- app_logs -- INFO -- Processing file 4: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnWY8vX.pdf
+2024-10-17 17:06:18,792 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnWY8vX.pdf
+2024-10-17 17:06:18,793 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnWY8vX.pdf
+2024-10-17 17:06:18,813 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-17 17:06:18,813 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:06:18,840 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:06:18,840 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:06:18,841 -- app_logs -- INFO -- Processing file 5: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameh9mxQv4m.pdf
+2024-10-17 17:06:18,841 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameh9mxQv4m.pdf
+2024-10-17 17:06:18,841 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpivy6t7e_/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameh9mxQv4m.pdf
+2024-10-17 17:06:18,862 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-17 17:06:18,862 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:06:18,887 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:06:18,888 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:06:38,614 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17.zip
+2024-10-17 17:06:38,619 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-17 17:06:38,629 -- app_logs -- INFO -- Processing file 1: /tmp/tmpi35nbw1x/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-17 17:06:38,629 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpi35nbw1x/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-17 17:06:38,630 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpi35nbw1x/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-17 17:06:38,671 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-17 17:06:38,671 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:06:38,720 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:06:38,720 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:06:38,721 -- app_logs -- INFO -- Processing file 2: /tmp/tmpi35nbw1x/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-17 17:06:38,721 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpi35nbw1x/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-17 17:06:38,721 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpi35nbw1x/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-17 17:06:48,854 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-17 17:06:48,855 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:07:08,061 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:07:08,062 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:07:08,070 -- app_logs -- INFO -- Processing file 3: /tmp/tmpi35nbw1x/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-17 17:07:08,070 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpi35nbw1x/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-17 17:07:08,070 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpi35nbw1x/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-17 17:07:08,184 -- pdf_extractor_logs -- DEBUG -- Extracted text from 3 pages.
+2024-10-17 17:07:08,184 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:07:08,356 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:07:08,356 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 17:08:35,208 -- app_logs -- INFO -- Uploaded file: work_91262.zip
+2024-10-17 17:08:35,212 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-17 17:08:35,227 -- app_logs -- INFO -- Processing file 1: /tmp/tmp58yci4_h/Bairaomgathigaon.pdf
+2024-10-17 17:08:35,227 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp58yci4_h/Bairaomgathigaon.pdf
+2024-10-17 17:08:35,227 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp58yci4_h/Bairaomgathigaon.pdf
+2024-10-17 17:08:41,100 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 17:08:41,100 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 17:08:47,377 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 17:08:47,377 -- processor_logs -- DEBUG -- Document processed successfully.
