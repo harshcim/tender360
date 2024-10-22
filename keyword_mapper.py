@@ -2,7 +2,6 @@ import re
 import os
 import sys
 import spacy # type: ignore
-from fuzzywuzzy import fuzz # type: ignore
 
 sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)),".."))
 
