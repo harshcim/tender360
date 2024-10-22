@@ -23,8 +23,8 @@ PREDEFINED_KEYWORDS = {
     ],
     "Oil & Gas": [
         "CTSU","Computerized Test Station Unit","DATA Logger", "Cathodic Protection", "Technical Specification",
-        "Scope of Work", "Remote Monitoring", "Automation", "Digital TR","Digital Transformer Rectifier",
-        "SRP Automation","Sucker Rod Pump Automation"
+        "Scope of Work", "Remote Monitoring", "Automation", "Digital TR","Digital Transformer Rectifier", "Transformer Rectifier",
+        "SRP Automation","Sucker Rod Pump Automation","Cathodic Protection"
     ],
     "Lighting": [
         "CCMS","Centralized Control and Monitoring System", "Smart Light Controller", "RTU","Remote Terminal Unit", "RMU","Ring Main Unit"

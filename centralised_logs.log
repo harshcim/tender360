@@ -474,3 +474,422 @@
 2024-10-17 17:08:41,100 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
 2024-10-17 17:08:47,377 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
 2024-10-17 17:08:47,377 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 10:24:53,417 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 10:24:59,454 -- app_logs -- INFO -- Uploaded file: 2400016259-HD-07350_1.pdf
+2024-10-21 10:24:59,463 -- app_logs -- INFO -- Processing file 1: /tmp/tmpgv4h5gdy/2400016259-HD-07350_1.pdf
+2024-10-21 10:24:59,463 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpgv4h5gdy/2400016259-HD-07350_1.pdf
+2024-10-21 10:24:59,463 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpgv4h5gdy/2400016259-HD-07350_1.pdf
+2024-10-21 10:25:10,235 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 10:25:10,235 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 10:25:22,825 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 10:25:22,826 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 10:46:25,471 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 10:49:16,901 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 10:49:22,460 -- app_logs -- INFO -- Uploaded file: 2400016259-HD-07350_1.pdf
+2024-10-21 10:49:22,469 -- app_logs -- INFO -- Processing file 1: /tmp/tmpq_j9dqd9/2400016259-HD-07350_1.pdf
+2024-10-21 10:49:22,469 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpq_j9dqd9/2400016259-HD-07350_1.pdf
+2024-10-21 10:49:22,470 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpq_j9dqd9/2400016259-HD-07350_1.pdf
+2024-10-21 10:49:33,277 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 10:49:33,277 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 10:49:46,414 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 10:49:46,414 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 10:53:34,113 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 10:54:06,721 -- app_logs -- INFO -- Uploaded file: 2400016259-HD-07350_1.pdf
+2024-10-21 10:54:06,731 -- app_logs -- INFO -- Processing file 1: /tmp/tmppgb_f3rp/2400016259-HD-07350_1.pdf
+2024-10-21 10:54:06,732 -- processor_logs -- INFO -- Processing tender document: /tmp/tmppgb_f3rp/2400016259-HD-07350_1.pdf
+2024-10-21 10:54:06,732 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmppgb_f3rp/2400016259-HD-07350_1.pdf
+2024-10-21 10:54:17,941 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 10:54:17,941 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 10:54:31,354 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 10:54:31,355 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 11:46:30,694 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 11:46:36,528 -- app_logs -- INFO -- Uploaded file: 2400016259-HD-07350_1.pdf
+2024-10-21 11:46:36,537 -- app_logs -- INFO -- Processing file 1: /tmp/tmpof6pj2az/2400016259-HD-07350_1.pdf
+2024-10-21 11:46:36,537 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpof6pj2az/2400016259-HD-07350_1.pdf
+2024-10-21 11:46:36,537 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpof6pj2az/2400016259-HD-07350_1.pdf
+2024-10-21 11:46:47,334 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 11:46:47,334 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 11:47:01,493 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 11:47:01,495 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 11:48:47,133 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 11:48:51,424 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (2).zip
+2024-10-21 11:48:51,440 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-21 11:48:51,460 -- app_logs -- INFO -- Processing file 1: /tmp/tmp6wj7cvug/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-10-21 11:48:51,461 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp6wj7cvug/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-10-21 11:48:51,461 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp6wj7cvug/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-10-21 11:49:02,300 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 11:49:02,300 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 11:49:15,915 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 11:49:15,917 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 11:50:50,540 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 11:50:50,549 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (2).zip
+2024-10-21 11:50:50,564 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-21 11:50:50,584 -- app_logs -- INFO -- Processing file 1: /tmp/tmp48r_dp6c/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-10-21 11:50:50,584 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp48r_dp6c/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-10-21 11:50:50,584 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp48r_dp6c/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-10-21 11:51:01,524 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 11:51:01,525 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 11:51:14,473 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 11:51:14,477 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 11:52:43,777 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 11:52:46,498 -- app_logs -- INFO -- Uploaded file: 2400016259-HD-07350_1.pdf
+2024-10-21 11:52:46,504 -- app_logs -- INFO -- Processing file 1: /tmp/tmpiqqqzf78/2400016259-HD-07350_1.pdf
+2024-10-21 11:52:46,504 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpiqqqzf78/2400016259-HD-07350_1.pdf
+2024-10-21 11:52:46,505 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpiqqqzf78/2400016259-HD-07350_1.pdf
+2024-10-21 11:52:57,316 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 11:52:57,316 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 11:53:09,819 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 11:53:09,819 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 11:56:03,703 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 11:56:11,613 -- app_logs -- INFO -- Uploaded file: 2400016259-HD-07350_1.pdf
+2024-10-21 11:56:11,620 -- app_logs -- INFO -- Processing file 1: /tmp/tmp1scv1ghb/2400016259-HD-07350_1.pdf
+2024-10-21 11:56:11,620 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp1scv1ghb/2400016259-HD-07350_1.pdf
+2024-10-21 11:56:11,621 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp1scv1ghb/2400016259-HD-07350_1.pdf
+2024-10-21 11:56:22,438 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 11:56:22,438 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 11:56:34,959 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 11:56:34,959 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 16:07:55,636 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 16:07:58,875 -- app_logs -- INFO -- Uploaded file: 2400016259-HD-07350_1.pdf
+2024-10-21 16:07:58,881 -- app_logs -- INFO -- Processing file 1: /tmp/tmpw4ikbqta/2400016259-HD-07350_1.pdf
+2024-10-21 16:07:58,881 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpw4ikbqta/2400016259-HD-07350_1.pdf
+2024-10-21 16:07:58,881 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpw4ikbqta/2400016259-HD-07350_1.pdf
+2024-10-21 16:08:09,652 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 16:08:09,652 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 16:08:22,190 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 16:08:22,190 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 16:12:41,541 -- app_logs -- INFO -- Uploaded file: Tender JalgaonAndDhule.pdf
+2024-10-21 16:12:41,543 -- app_logs -- INFO -- Processing file 1: /tmp/tmpt9cpig7o/Tender JalgaonAndDhule.pdf
+2024-10-21 16:12:41,544 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpt9cpig7o/Tender JalgaonAndDhule.pdf
+2024-10-21 16:12:41,544 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpt9cpig7o/Tender JalgaonAndDhule.pdf
+2024-10-21 16:12:53,084 -- pdf_extractor_logs -- DEBUG -- Extracted text from 187 pages.
+2024-10-21 16:12:53,084 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 16:13:02,924 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 16:13:02,924 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 16:15:57,766 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-10-21 16:15:57,768 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-21 16:15:57,770 -- app_logs -- INFO -- Processing file 1: /tmp/tmpo5brpzau/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-10-21 16:15:57,771 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpo5brpzau/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-10-21 16:15:57,771 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpo5brpzau/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-10-21 16:15:59,075 -- pdf_extractor_logs -- DEBUG -- Extracted text from 30 pages.
+2024-10-21 16:15:59,075 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 16:16:01,158 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 16:16:01,159 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 17:58:56,777 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-21 17:59:01,220 -- app_logs -- INFO -- Uploaded file: Tender JalgaonAndDhule.pdf
+2024-10-21 17:59:01,226 -- app_logs -- INFO -- Processing file 1: /tmp/tmpu519w2nu/Tender JalgaonAndDhule.pdf
+2024-10-21 17:59:01,226 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpu519w2nu/Tender JalgaonAndDhule.pdf
+2024-10-21 17:59:01,226 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpu519w2nu/Tender JalgaonAndDhule.pdf
+2024-10-21 17:59:12,862 -- pdf_extractor_logs -- DEBUG -- Extracted text from 187 pages.
+2024-10-21 17:59:12,862 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 17:59:13,432 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 17:59:13,433 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 18:01:09,889 -- app_logs -- INFO -- Uploaded file: 2400016259-HD-07350_1.pdf
+2024-10-21 18:01:09,898 -- app_logs -- INFO -- Processing file 1: /tmp/tmpot52avme/2400016259-HD-07350_1.pdf
+2024-10-21 18:01:09,898 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpot52avme/2400016259-HD-07350_1.pdf
+2024-10-21 18:01:09,898 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpot52avme/2400016259-HD-07350_1.pdf
+2024-10-21 18:01:20,721 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-10-21 18:01:20,721 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 18:01:21,469 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 18:01:21,470 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 18:04:03,936 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-10-21 18:04:03,937 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-21 18:04:03,940 -- app_logs -- INFO -- Processing file 1: /tmp/tmpbk33ic8_/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-10-21 18:04:03,940 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpbk33ic8_/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-10-21 18:04:03,941 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpbk33ic8_/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-10-21 18:04:05,299 -- pdf_extractor_logs -- DEBUG -- Extracted text from 30 pages.
+2024-10-21 18:04:05,299 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 18:04:05,429 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 18:04:05,429 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 18:04:15,800 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-21 18:04:15,804 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-21 18:04:15,813 -- app_logs -- INFO -- Processing file 1: /tmp/tmpio2hjjmx/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-21 18:04:15,813 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpio2hjjmx/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-21 18:04:15,813 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpio2hjjmx/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-21 18:04:15,854 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-21 18:04:15,854 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 18:04:15,858 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 18:04:15,858 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 18:04:15,858 -- app_logs -- INFO -- Processing file 2: /tmp/tmpio2hjjmx/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-21 18:04:15,858 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpio2hjjmx/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-21 18:04:15,859 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpio2hjjmx/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-21 18:04:26,135 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-21 18:04:26,135 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 18:04:27,481 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 18:04:27,482 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 18:04:27,492 -- app_logs -- INFO -- Processing file 3: /tmp/tmpio2hjjmx/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-21 18:04:27,492 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpio2hjjmx/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-21 18:04:27,493 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpio2hjjmx/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-21 18:04:27,679 -- pdf_extractor_logs -- DEBUG -- Extracted text from 3 pages.
+2024-10-21 18:04:27,679 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 18:04:27,691 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 18:04:27,691 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 18:05:03,991 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-21 18:05:03,994 -- app_logs -- INFO -- Processing file 1: /tmp/tmpjroiu46e/TD.pdf
+2024-10-21 18:05:03,994 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpjroiu46e/TD.pdf
+2024-10-21 18:05:03,994 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpjroiu46e/TD.pdf
+2024-10-21 18:05:09,282 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-21 18:05:09,282 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 18:05:09,625 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 18:05:09,625 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-21 18:07:31,055 -- app_logs -- INFO -- Uploaded file: Biddocument51_200KW.pdf
+2024-10-21 18:07:31,063 -- app_logs -- INFO -- Processing file 1: /tmp/tmp_z5cvsyc/Biddocument51_200KW.pdf
+2024-10-21 18:07:31,063 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp_z5cvsyc/Biddocument51_200KW.pdf
+2024-10-21 18:07:31,063 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp_z5cvsyc/Biddocument51_200KW.pdf
+2024-10-21 18:07:43,504 -- pdf_extractor_logs -- DEBUG -- Extracted text from 442 pages.
+2024-10-21 18:07:43,504 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-21 18:07:44,565 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-21 18:07:44,565 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:30:43,254 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 10:30:55,101 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-22 10:30:55,106 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-22 10:30:55,114 -- app_logs -- INFO -- Processing file 1: /tmp/tmpqhvoryau/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:30:55,114 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpqhvoryau/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:30:55,114 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpqhvoryau/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:30:55,161 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-22 10:30:55,161 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:30:55,168 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:30:55,169 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:30:55,171 -- app_logs -- INFO -- Processing file 2: /tmp/tmpqhvoryau/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:30:55,171 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpqhvoryau/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:30:55,171 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpqhvoryau/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:31:05,695 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-22 10:31:05,695 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:31:07,038 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:31:07,038 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:31:07,048 -- app_logs -- INFO -- Processing file 3: /tmp/tmpqhvoryau/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 10:31:07,048 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpqhvoryau/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 10:31:07,048 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpqhvoryau/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 10:31:07,166 -- pdf_extractor_logs -- DEBUG -- Extracted text from 3 pages.
+2024-10-22 10:31:07,166 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:31:07,178 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:31:07,178 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:32:48,120 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-22.zip
+2024-10-22 10:32:48,126 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-22 10:32:48,136 -- app_logs -- INFO -- Processing file 1: /tmp/tmpvjic1l05/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-10-22 10:32:48,136 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpvjic1l05/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-10-22 10:32:48,136 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpvjic1l05/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-10-22 10:32:59,595 -- pdf_extractor_logs -- DEBUG -- Extracted text from 165 pages.
+2024-10-22 10:32:59,596 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:33:00,302 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:33:00,303 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:47:18,770 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 10:47:23,609 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-22 10:47:23,620 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-22 10:47:23,630 -- app_logs -- INFO -- Processing file 1: /tmp/tmpublhveoi/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:47:23,630 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpublhveoi/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:47:23,630 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpublhveoi/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:47:23,675 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-22 10:47:23,676 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:47:23,679 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:47:23,679 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:47:23,680 -- app_logs -- INFO -- Processing file 2: /tmp/tmpublhveoi/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:47:23,680 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpublhveoi/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:47:23,680 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpublhveoi/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:47:34,204 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-22 10:47:34,204 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:47:35,537 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:47:35,538 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:50:01,003 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 10:50:04,954 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-22 10:50:04,957 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-22 10:50:04,966 -- app_logs -- INFO -- Processing file 1: /tmp/tmpbn4em2l5/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:50:04,967 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpbn4em2l5/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:50:04,967 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpbn4em2l5/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:50:05,009 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-22 10:50:05,009 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:50:05,012 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:50:05,012 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:50:05,014 -- app_logs -- INFO -- Processing file 2: /tmp/tmpbn4em2l5/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:50:05,014 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpbn4em2l5/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:50:05,014 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpbn4em2l5/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:50:15,482 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-22 10:50:15,482 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:50:16,829 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:50:16,829 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:50:16,845 -- app_logs -- INFO -- Processing file 3: /tmp/tmpbn4em2l5/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 10:50:16,846 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpbn4em2l5/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 10:50:16,846 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpbn4em2l5/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 10:50:16,966 -- pdf_extractor_logs -- DEBUG -- Extracted text from 3 pages.
+2024-10-22 10:50:16,967 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:50:16,979 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:50:16,979 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:55:08,521 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 10:55:10,594 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-22 10:55:10,598 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-22 10:55:10,607 -- app_logs -- INFO -- Processing file 1: /tmp/tmpb1g7pqcs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:55:10,607 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpb1g7pqcs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:55:10,608 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpb1g7pqcs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 10:55:10,651 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-22 10:55:10,651 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:55:10,654 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:55:10,654 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:55:10,655 -- app_logs -- INFO -- Processing file 2: /tmp/tmpb1g7pqcs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:55:10,656 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpb1g7pqcs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:55:10,656 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpb1g7pqcs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 10:55:21,049 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-22 10:55:21,049 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:55:22,385 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:55:22,385 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:55:22,396 -- app_logs -- INFO -- Processing file 3: /tmp/tmpb1g7pqcs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 10:55:22,396 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpb1g7pqcs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 10:55:22,396 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpb1g7pqcs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 10:55:22,516 -- pdf_extractor_logs -- DEBUG -- Extracted text from 3 pages.
+2024-10-22 10:55:22,516 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:55:22,529 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:55:22,529 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:57:50,219 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 10:57:56,241 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 10:57:56,245 -- app_logs -- INFO -- Processing file 1: /tmp/tmpm9r11sg8/TD.pdf
+2024-10-22 10:57:56,245 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpm9r11sg8/TD.pdf
+2024-10-22 10:57:56,245 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpm9r11sg8/TD.pdf
+2024-10-22 10:58:01,633 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 10:58:01,633 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:58:01,986 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:58:01,986 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 10:58:30,025 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 10:58:33,369 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 10:58:33,373 -- app_logs -- INFO -- Processing file 1: /tmp/tmpqvwf34vq/TD.pdf
+2024-10-22 10:58:33,373 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpqvwf34vq/TD.pdf
+2024-10-22 10:58:33,374 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpqvwf34vq/TD.pdf
+2024-10-22 10:58:38,751 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 10:58:38,751 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 10:58:39,097 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 10:58:39,097 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:01:00,167 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 11:01:00,169 -- app_logs -- INFO -- Processing file 1: /tmp/tmpn6e0thsh/TD.pdf
+2024-10-22 11:01:00,170 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpn6e0thsh/TD.pdf
+2024-10-22 11:01:00,170 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpn6e0thsh/TD.pdf
+2024-10-22 11:01:05,387 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 11:01:05,387 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:01:05,725 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:01:05,725 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:05:29,024 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:05:32,911 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 11:05:32,914 -- app_logs -- INFO -- Processing file 1: /tmp/tmpdic86dwr/TD.pdf
+2024-10-22 11:05:32,914 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpdic86dwr/TD.pdf
+2024-10-22 11:05:32,914 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpdic86dwr/TD.pdf
+2024-10-22 11:05:38,246 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 11:05:38,247 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:05:38,591 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:05:38,592 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:07:16,199 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:07:19,257 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 11:07:19,260 -- app_logs -- INFO -- Processing file 1: /tmp/tmp_kzm_p9i/TD.pdf
+2024-10-22 11:07:19,260 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp_kzm_p9i/TD.pdf
+2024-10-22 11:07:19,260 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp_kzm_p9i/TD.pdf
+2024-10-22 11:07:24,627 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 11:07:24,627 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:07:24,970 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:07:24,971 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:24:15,394 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:24:19,309 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 11:24:19,312 -- app_logs -- INFO -- Processing file 1: /tmp/tmpp2nek06r/TD.pdf
+2024-10-22 11:24:19,313 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpp2nek06r/TD.pdf
+2024-10-22 11:24:19,313 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpp2nek06r/TD.pdf
+2024-10-22 11:24:24,733 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 11:24:24,733 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:24:25,077 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:24:25,077 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:26:57,666 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:27:00,471 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 11:27:00,475 -- app_logs -- INFO -- Processing file 1: /tmp/tmpk9wo1_r2/TD.pdf
+2024-10-22 11:27:00,475 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpk9wo1_r2/TD.pdf
+2024-10-22 11:27:00,475 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpk9wo1_r2/TD.pdf
+2024-10-22 11:27:05,716 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 11:27:05,716 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:27:06,058 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:27:06,058 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:27:42,047 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:27:45,611 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 11:27:45,613 -- app_logs -- INFO -- Processing file 1: /tmp/tmp5fwcik3r/TD.pdf
+2024-10-22 11:27:45,614 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp5fwcik3r/TD.pdf
+2024-10-22 11:27:45,614 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp5fwcik3r/TD.pdf
+2024-10-22 11:27:51,095 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 11:27:51,095 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:27:51,440 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:27:51,440 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:29:22,493 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:29:25,343 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 11:29:25,346 -- app_logs -- INFO -- Processing file 1: /tmp/tmpb8yyax8r/TD.pdf
+2024-10-22 11:29:25,346 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpb8yyax8r/TD.pdf
+2024-10-22 11:29:25,346 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpb8yyax8r/TD.pdf
+2024-10-22 11:29:30,608 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 11:29:30,608 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:29:30,945 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:29:30,945 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:32:42,867 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:32:45,054 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 11:32:45,056 -- app_logs -- INFO -- Processing file 1: /tmp/tmpaejt1ug1/TD.pdf
+2024-10-22 11:32:45,056 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpaejt1ug1/TD.pdf
+2024-10-22 11:32:45,057 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpaejt1ug1/TD.pdf
+2024-10-22 11:32:50,330 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 11:32:50,330 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:32:50,666 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:32:50,666 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:35:57,565 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:36:01,947 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-22 11:36:01,949 -- app_logs -- INFO -- Processing file 1: /tmp/tmpeoxcv0r8/TD.pdf
+2024-10-22 11:36:01,950 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpeoxcv0r8/TD.pdf
+2024-10-22 11:36:01,950 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpeoxcv0r8/TD.pdf
+2024-10-22 11:36:07,202 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-22 11:36:07,202 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:36:07,538 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:36:07,538 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:37:07,567 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:37:11,218 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-22 11:37:11,221 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-22 11:37:11,231 -- app_logs -- INFO -- Processing file 1: /tmp/tmpg3711jjs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 11:37:11,231 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpg3711jjs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 11:37:11,231 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpg3711jjs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 11:37:11,273 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-22 11:37:11,273 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:37:11,276 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:37:11,277 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:37:11,277 -- app_logs -- INFO -- Processing file 2: /tmp/tmpg3711jjs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 11:37:11,278 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpg3711jjs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 11:37:11,278 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpg3711jjs/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 11:37:21,562 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-22 11:37:21,562 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:37:22,871 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:37:22,871 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:37:51,149 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-22 11:37:51,151 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-22 11:37:51,155 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-22 11:37:51,163 -- app_logs -- INFO -- Processing file 1: /tmp/tmp821o0_a3/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 11:37:51,163 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp821o0_a3/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 11:37:51,163 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp821o0_a3/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 11:37:51,205 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-22 11:37:51,205 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:37:51,208 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:37:51,208 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:37:51,210 -- app_logs -- INFO -- Processing file 2: /tmp/tmp821o0_a3/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 11:37:51,210 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp821o0_a3/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 11:37:51,210 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp821o0_a3/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 11:38:00,084 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-10-22 11:38:00,111 -- app_logs -- INFO -- Processing ZIP file.
+2024-10-22 11:38:01,251 -- app_logs -- INFO -- Processing file 1: /tmp/tmp4i1q0r5w/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 11:38:01,251 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp4i1q0r5w/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 11:38:01,251 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp4i1q0r5w/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/99940_Corrigendum 1 Lakh STP.pdf
+2024-10-22 11:38:01,416 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-10-22 11:38:01,417 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:38:01,420 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:38:01,420 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:38:01,420 -- app_logs -- INFO -- Processing file 2: /tmp/tmp4i1q0r5w/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 11:38:01,420 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp4i1q0r5w/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 11:38:01,420 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp4i1q0r5w/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/06870_Lakh STP Bid Doc.pdf
+2024-10-22 11:38:01,932 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-22 11:38:01,933 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:38:03,324 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:38:03,324 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:38:13,336 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-10-22 11:38:13,336 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:38:14,648 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:38:14,649 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-22 11:38:14,658 -- app_logs -- INFO -- Processing file 3: /tmp/tmp4i1q0r5w/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 11:38:14,658 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp4i1q0r5w/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 11:38:14,658 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp4i1q0r5w/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM/00201_Lakh STP NIT.pdf
+2024-10-22 11:38:14,773 -- pdf_extractor_logs -- DEBUG -- Extracted text from 3 pages.
+2024-10-22 11:38:14,773 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-22 11:38:14,785 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-22 11:38:14,786 -- processor_logs -- DEBUG -- Document processed successfully.

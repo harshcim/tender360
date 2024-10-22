@@ -19,6 +19,9 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+
+
+
 # Custom CSS for a modern look
 st.markdown(
     """
@@ -91,6 +94,29 @@ st.markdown(
         color: #007bff;
         text-decoration: none;
     }
+    
+    /* Styling for keyword occurrences */
+    .keyword-item {
+    background-color: #e1f5fe; /* Light blue background */
+    border: 1px solid #bbdefb; /* Slightly darker border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px; /* Padding for aesthetics */
+    margin: 5px 0; /* Space between keywords */
+    transition: transform 0.2s; /* Animation on hover */
+    }
+    
+    .keyword-item:hover {
+    transform: scale(1.02); /* Slight scale up on hover */
+    }
+    
+    .badge {
+    background-color: #28B463; /* Green background for relevance */
+    color: white; /* White text */
+    border-radius: 12px; /* Rounded corners */
+    padding: 5px 10px; /* Padding for aesthetics */
+    margin-left: 10px; /* Space from keyword */
+    font-size: 14px; /* Font size */
+    }      
     </style>
     """,
     unsafe_allow_html=True,
@@ -177,8 +203,7 @@ if uploaded_file is not None:
                     st.markdown("#### **Keyword Occurrences:**")
                     for occurrence in keyword_occurrences:
                         st.text(occurrence)
-                else:
-                    st.markdown("#### **No keywords found in this document.**")
+
                 
                 # if keyword_occurrences:
                 #     st.markdown("#### **Keyword Occurrences:**")
