@@ -149,18 +149,38 @@ if uploaded_file is not None:
 
         pdf_files = []
 
-        if uploaded_file.type == "application/zip":
+        if uploaded_file.type == "application/zip" or uploaded_file.name.lower().endswith(".zip"):
             
             logger.info("Processing ZIP file.")
             
+            # try:
+            #     with zipfile.ZipFile(file_path, 'r') as zip_ref:
+            #         zip_ref.extractall(tmp_dir)
+            # except zipfile.BadZipFile:
+            #     st.error("The uploaded ZIP file is corrupted or not a valid ZIP archive.")
+            #     st.stop()
+            # except Exception as e:
+            #     st.error(f"An error occurred while extracting the ZIP file: {e}")
+            #     st.stop()
+                
+                
             try:
                 with zipfile.ZipFile(file_path, 'r') as zip_ref:
                     zip_ref.extractall(tmp_dir)
+                    extracted_files = zip_ref.namelist()
+                    if not extracted_files:
+                        st.error("The ZIP file is empty or could not be extracted.")
+                        logger.warning("ZIP extraction yielded no files.")
+                        st.stop()
+                logger.info(f"Extracted ZIP to: {tmp_dir}")
+
             except zipfile.BadZipFile:
                 st.error("The uploaded ZIP file is corrupted or not a valid ZIP archive.")
+                logger.warning("Bad ZIP file uploaded.")
                 st.stop()
             except Exception as e:
-                st.error(f"An error occurred while extracting the ZIP file: {e}")
+                st.error(f"An unexpected error occurred: {e}")
+                logger.error(f"Unexpected error: {e}")
                 st.stop()
 
             # Walk through the extracted files to find all PDFs
@@ -169,12 +189,15 @@ if uploaded_file is not None:
                     if file.lower().endswith(".pdf"):
                         pdf_path = os.path.join(root, file)
                         pdf_files.append(pdf_path)
+                        logger.info(f"PDF found: {pdf_path}")
+
 
             if not pdf_files:
                 st.error("No PDF files found in the uploaded ZIP archive.")
-                
                 logger.warning("No PDF files found in ZIP.")
-                
+            else:
+                logger.info(f"Total PDFs found: {len(pdf_files)}")
+                        
         elif uploaded_file.type == "application/pdf":
             # If a single PDF is uploaded
             pdf_files.append(file_path)
@@ -215,6 +238,7 @@ if uploaded_file is not None:
                 #     st.markdown("#### **No keywords found in this document.**")
 
                 # Display relevancy statement in bold
+                
                 if status["Document Status"] == "Relevant":
                     st.markdown(
                         f'<div class="status"> {status["Document Status"]} | Categories: {status["Categories"]}</div>',

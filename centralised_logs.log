@@ -941,3 +941,89 @@
 2024-10-22 11:58:28,658 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
 2024-10-22 11:58:28,991 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
 2024-10-22 11:58:28,992 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-05 11:24:22,950 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-05 11:24:27,477 -- app_logs -- INFO -- Uploaded file: Tender_11272296 1.ZIP
+2024-11-05 11:24:27,479 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-05 11:24:27,482 -- app_logs -- INFO -- Extracted ZIP to: /tmp/tmpjay__cx3
+2024-11-05 11:24:27,482 -- app_logs -- INFO -- PDF found: /tmp/tmpjay__cx3/40217934.pdf
+2024-11-05 11:24:27,482 -- app_logs -- INFO -- Total PDFs found: 1
+2024-11-05 11:24:27,483 -- app_logs -- INFO -- Processing file 1: /tmp/tmpjay__cx3/40217934.pdf
+2024-11-05 11:24:27,483 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpjay__cx3/40217934.pdf
+2024-11-05 11:24:27,484 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpjay__cx3/40217934.pdf
+2024-11-05 11:24:27,487 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-05 11:24:27,487 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-05 11:24:27,491 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-05 11:24:27,491 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-05 11:27:35,641 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-05 12:15:18,113 -- app_logs -- INFO -- Uploaded file: Tender_11272296 1.ZIP
+2024-11-05 12:15:18,115 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-05 12:15:18,118 -- app_logs -- INFO -- Extracted ZIP to: /tmp/tmpysru7jgv
+2024-11-05 12:15:18,119 -- app_logs -- INFO -- PDF found: /tmp/tmpysru7jgv/40217934.pdf
+2024-11-05 12:15:18,119 -- app_logs -- INFO -- Total PDFs found: 1
+2024-11-05 12:15:18,120 -- app_logs -- INFO -- Processing file 1: /tmp/tmpysru7jgv/40217934.pdf
+2024-11-05 12:15:18,120 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpysru7jgv/40217934.pdf
+2024-11-05 12:15:18,121 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpysru7jgv/40217934.pdf
+2024-11-05 12:15:18,124 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-05 12:15:18,124 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-05 12:15:18,128 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-05 12:15:18,128 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-05 12:15:28,054 -- app_logs -- INFO -- Uploaded file: Tender_11272296 1.ZIP
+2024-11-05 12:15:28,056 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-05 12:15:28,059 -- app_logs -- INFO -- Extracted ZIP to: /tmp/tmprstsyau3
+2024-11-05 12:15:28,059 -- app_logs -- INFO -- PDF found: /tmp/tmprstsyau3/40217934.pdf
+2024-11-05 12:15:28,059 -- app_logs -- INFO -- Total PDFs found: 1
+2024-11-05 12:15:28,061 -- app_logs -- INFO -- Processing file 1: /tmp/tmprstsyau3/40217934.pdf
+2024-11-05 12:15:28,061 -- processor_logs -- INFO -- Processing tender document: /tmp/tmprstsyau3/40217934.pdf
+2024-11-05 12:15:28,063 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmprstsyau3/40217934.pdf
+2024-11-05 12:15:28,066 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-05 12:15:28,066 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-05 12:15:28,067 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-05 12:15:28,067 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-05 12:15:35,065 -- app_logs -- INFO -- Uploaded file: Tender_11272296 1.ZIP
+2024-11-05 12:15:35,067 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-05 12:15:35,070 -- app_logs -- INFO -- Extracted ZIP to: /tmp/tmpl3g0fi_0
+2024-11-05 12:15:35,070 -- app_logs -- INFO -- PDF found: /tmp/tmpl3g0fi_0/40217934.pdf
+2024-11-05 12:15:35,070 -- app_logs -- INFO -- Total PDFs found: 1
+2024-11-05 12:15:35,071 -- app_logs -- INFO -- Processing file 1: /tmp/tmpl3g0fi_0/40217934.pdf
+2024-11-05 12:15:35,071 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpl3g0fi_0/40217934.pdf
+2024-11-05 12:15:35,071 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpl3g0fi_0/40217934.pdf
+2024-11-05 12:15:35,074 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-05 12:15:35,074 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-05 12:15:35,075 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-05 12:15:35,075 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-05 12:15:39,528 -- app_logs -- INFO -- Uploaded file: Tender_11272296 1.ZIP
+2024-11-05 12:15:39,529 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-05 12:15:39,533 -- app_logs -- INFO -- Extracted ZIP to: /tmp/tmpwluomc_b
+2024-11-05 12:15:39,533 -- app_logs -- INFO -- PDF found: /tmp/tmpwluomc_b/40217934.pdf
+2024-11-05 12:15:39,533 -- app_logs -- INFO -- Total PDFs found: 1
+2024-11-05 12:15:39,534 -- app_logs -- INFO -- Processing file 1: /tmp/tmpwluomc_b/40217934.pdf
+2024-11-05 12:15:39,534 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpwluomc_b/40217934.pdf
+2024-11-05 12:15:39,535 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpwluomc_b/40217934.pdf
+2024-11-05 12:15:39,537 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-05 12:15:39,537 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-05 12:15:39,538 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-05 12:15:39,538 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-05 12:15:43,610 -- app_logs -- INFO -- Uploaded file: Tender_11272296 1.ZIP
+2024-11-05 12:15:43,611 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-05 12:15:43,614 -- app_logs -- INFO -- Extracted ZIP to: /tmp/tmp2t7vmgvc
+2024-11-05 12:15:43,614 -- app_logs -- INFO -- PDF found: /tmp/tmp2t7vmgvc/40217934.pdf
+2024-11-05 12:15:43,614 -- app_logs -- INFO -- Total PDFs found: 1
+2024-11-05 12:15:43,615 -- app_logs -- INFO -- Processing file 1: /tmp/tmp2t7vmgvc/40217934.pdf
+2024-11-05 12:15:43,615 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp2t7vmgvc/40217934.pdf
+2024-11-05 12:15:43,615 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp2t7vmgvc/40217934.pdf
+2024-11-05 12:15:43,618 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-05 12:15:43,618 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-05 12:15:43,619 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-05 12:15:43,619 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-05 12:15:47,113 -- app_logs -- INFO -- Uploaded file: Tender_11272296 1.ZIP
+2024-11-05 12:15:47,114 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-05 12:15:47,118 -- app_logs -- INFO -- Extracted ZIP to: /tmp/tmpg8ti_yky
+2024-11-05 12:15:47,119 -- app_logs -- INFO -- PDF found: /tmp/tmpg8ti_yky/40217934.pdf
+2024-11-05 12:15:47,119 -- app_logs -- INFO -- Total PDFs found: 1
+2024-11-05 12:15:47,120 -- app_logs -- INFO -- Processing file 1: /tmp/tmpg8ti_yky/40217934.pdf
+2024-11-05 12:15:47,121 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpg8ti_yky/40217934.pdf
+2024-11-05 12:15:47,121 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpg8ti_yky/40217934.pdf
+2024-11-05 12:15:47,123 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-05 12:15:47,124 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-05 12:15:47,125 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-05 12:15:47,125 -- processor_logs -- DEBUG -- Document processed successfully.
