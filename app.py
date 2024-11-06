@@ -113,7 +113,7 @@ st.markdown(
     background-color: #28B463; /* Green background for relevance */
     color: white; /* White text */
     border-radius: 12px; /* Rounded corners */
-    padding: 5px 10px; /* Padding for aesthetics */
+    padding: 5px 10px; /* Padding for aesthetics */ 
     margin-left: 10px; /* Space from keyword */
     font-size: 14px; /* Font size */
     }      

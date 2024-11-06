@@ -22,8 +22,7 @@ PREDEFINED_KEYWORDS = {
         "Level Transmitter", "VFD","Variable Frequency Drive", "Pressure Transmitter"
     ],
     "Oil & Gas": [
-        "CTSU","Computerized Test Station Unit","DATA Logger", "Cathodic Protection", "Technical Specification",
-        "Scope of Work", "Remote Monitoring", "Automation", "Digital TR","Digital Transformer Rectifier", "Transformer Rectifier",
+        "CTSU","Computerized Test Station Unit","DATA Logger", "Cathodic Protection", "Remote Monitoring", "Automation", "Digital TR","Digital Transformer Rectifier", "Transformer Rectifier",
         "SRP Automation","Sucker Rod Pump Automation","Cathodic Protection"
     ],
     "Lighting": [

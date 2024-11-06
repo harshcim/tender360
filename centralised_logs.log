@@ -1027,3 +1027,33 @@
 2024-11-05 12:15:47,124 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
 2024-11-05 12:15:47,125 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
 2024-11-05 12:15:47,125 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-05 17:26:45,192 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-06 15:21:41,662 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-06 15:21:53,209 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (2).zip
+2024-11-06 15:21:53,226 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-06 15:21:53,246 -- app_logs -- INFO -- Extracted ZIP to: /tmp/tmp64bb2nlj
+2024-11-06 15:21:53,246 -- app_logs -- INFO -- PDF found: /tmp/tmp64bb2nlj/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-11-06 15:21:53,246 -- app_logs -- INFO -- Total PDFs found: 1
+2024-11-06 15:21:53,246 -- app_logs -- INFO -- Processing file 1: /tmp/tmp64bb2nlj/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-11-06 15:21:53,247 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp64bb2nlj/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-11-06 15:21:53,247 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp64bb2nlj/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024/2400016259-HD-07350_1.pdf
+2024-11-06 15:22:04,146 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-11-06 15:22:04,146 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-06 15:22:04,877 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-06 15:22:04,878 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-06 15:22:34,134 -- app_logs -- INFO -- Uploaded file: Biddocument51_200KW.pdf
+2024-11-06 15:22:34,143 -- app_logs -- INFO -- Processing file 1: /tmp/tmpyv3efzr_/Biddocument51_200KW.pdf
+2024-11-06 15:22:34,143 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpyv3efzr_/Biddocument51_200KW.pdf
+2024-11-06 15:22:34,144 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpyv3efzr_/Biddocument51_200KW.pdf
+2024-11-06 15:22:46,943 -- pdf_extractor_logs -- DEBUG -- Extracted text from 442 pages.
+2024-11-06 15:22:46,943 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-06 15:22:47,990 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-06 15:22:47,991 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-06 15:25:47,464 -- app_logs -- INFO -- Uploaded file: Biddocument51_200KW.pdf
+2024-11-06 15:25:47,470 -- app_logs -- INFO -- Processing file 1: /tmp/tmpqim0pivb/Biddocument51_200KW.pdf
+2024-11-06 15:25:47,471 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpqim0pivb/Biddocument51_200KW.pdf
+2024-11-06 15:25:47,471 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpqim0pivb/Biddocument51_200KW.pdf
+2024-11-06 15:26:00,195 -- pdf_extractor_logs -- DEBUG -- Extracted text from 442 pages.
+2024-11-06 15:26:00,195 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-06 15:26:01,213 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-06 15:26:01,213 -- processor_logs -- DEBUG -- Document processed successfully.
