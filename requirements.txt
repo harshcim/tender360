@@ -6,4 +6,4 @@ langchain
 google-generativeai
 python-docx
 faiss-cpu
-dotenv
+python-dotenv
