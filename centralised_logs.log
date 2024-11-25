@@ -2701,3 +2701,49 @@
 2024-11-23 11:21:59,577 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/work_1676263.zip
 2024-11-23 11:21:59,577 -- pdf_extractor_logs -- ERROR -- Unsupported file format: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/work_1676263.zip
 2024-11-23 11:21:59,578 -- processor_logs -- WARNING -- No text found in the document.
+2024-11-23 11:47:54,214 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-22.zip
+2024-11-23 11:47:54,223 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-23 11:47:54,235 -- app_logs -- INFO -- Extracted ZIP to: permanent_upload_directory
+2024-11-23 11:47:54,236 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-11-23 11:47:54,236 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-11-23 11:47:54,236 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-11-23 11:48:04,029 -- pdf_extractor_logs -- DEBUG -- Extracted text from 165 pages.
+2024-11-23 11:48:04,029 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-23 11:48:04,623 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-23 11:48:04,624 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-23 11:48:09,085 -- app_logs -- INFO -- Processing file 2: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-11-23 11:48:09,085 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-11-23 11:48:09,085 -- pdf_extractor_logs -- ERROR -- Unsupported file format: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-11-23 11:48:09,085 -- processor_logs -- WARNING -- No text found in the document.
+2024-11-23 11:48:58,405 -- data_utils_logs -- INFO -- Successfully loaded 30 documents.
+2024-11-23 11:49:02,889 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender_Usecases/tender_classification_directory/data/vector_store.faiss
+2024-11-23 12:37:32,705 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-11-23 12:37:32,706 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-23 12:37:32,710 -- app_logs -- INFO -- Extracted ZIP to: permanent_upload_directory
+2024-11-23 12:37:32,710 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-11-23 12:37:32,711 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-11-23 12:37:32,711 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-11-23 12:37:33,814 -- pdf_extractor_logs -- DEBUG -- Extracted text from 30 pages.
+2024-11-23 12:37:33,814 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-23 12:37:33,926 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-23 12:37:33,926 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-23 12:37:36,617 -- app_logs -- INFO -- Processing file 2: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/work_1676263.zip
+2024-11-23 12:37:36,617 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/work_1676263.zip
+2024-11-23 12:37:36,617 -- pdf_extractor_logs -- ERROR -- Unsupported file format: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/work_1676263.zip
+2024-11-23 12:37:36,618 -- processor_logs -- WARNING -- No text found in the document.
+2024-11-23 12:38:03,641 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-22.zip
+2024-11-23 12:38:03,648 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-23 12:38:03,711 -- app_logs -- INFO -- Extracted ZIP to: permanent_upload_directory
+2024-11-23 12:38:03,712 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-11-23 12:38:03,712 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-11-23 12:38:03,712 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-11-23 12:38:13,510 -- pdf_extractor_logs -- DEBUG -- Extracted text from 165 pages.
+2024-11-23 12:38:13,511 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-23 12:38:14,106 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-23 12:38:14,107 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-23 12:38:19,147 -- app_logs -- INFO -- Processing file 2: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-11-23 12:38:19,147 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-11-23 12:38:19,148 -- pdf_extractor_logs -- ERROR -- Unsupported file format: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-11-23 12:38:19,148 -- processor_logs -- WARNING -- No text found in the document.
+2024-11-25 18:24:20,969 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-25 18:24:59,445 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
