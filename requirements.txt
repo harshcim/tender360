@@ -7,6 +7,6 @@ google-generativeai
 python-docx
 faiss-cpu
 python-dotenv
-langchain_google_genai
-langchain_core
-pydantic>=1.8.2
+pydantic==1.10.8
+langchain_core==0.0.9  
+langchain-google-genai==0.0.5
