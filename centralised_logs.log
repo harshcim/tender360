@@ -2747,3 +2747,93 @@
 2024-11-23 12:38:19,148 -- processor_logs -- WARNING -- No text found in the document.
 2024-11-25 18:24:20,969 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
 2024-11-25 18:24:59,445 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 09:28:16,893 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 09:30:09,882 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 09:34:59,953 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 09:36:21,004 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 09:50:05,102 -- data_utils_logs -- INFO -- Successfully loaded 30 documents.
+2024-11-29 09:50:14,048 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender_Usecases/tender_classification_directory/data/vector_store.faiss
+2024-11-29 09:51:27,838 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17.zip
+2024-11-29 09:51:27,839 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-29 09:51:27,843 -- app_logs -- INFO -- Extracted ZIP to: permanent_upload_directory
+2024-11-29 09:51:27,844 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnW (1).pdf
+2024-11-29 09:51:27,844 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnW (1).pdf
+2024-11-29 09:51:27,844 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnW (1).pdf
+2024-11-29 09:51:27,863 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-29 09:51:27,863 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-29 09:51:27,867 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-29 09:51:27,867 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-29 09:51:30,506 -- app_logs -- INFO -- Processing file 2: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnWY8vX.pdf
+2024-11-29 09:51:30,507 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnWY8vX.pdf
+2024-11-29 09:51:30,508 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnWY8vX.pdf
+2024-11-29 09:51:30,559 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-29 09:51:30,560 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-29 09:51:30,561 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-29 09:51:30,561 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-29 09:51:31,569 -- app_logs -- INFO -- Processing file 3: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameh9mxQv4m.pdf
+2024-11-29 09:51:31,572 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameh9mxQv4m.pdf
+2024-11-29 09:51:31,574 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameh9mxQv4m.pdf
+2024-11-29 09:51:31,621 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-29 09:51:31,621 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-29 09:51:31,622 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-29 09:51:31,623 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-29 09:51:32,704 -- app_logs -- INFO -- Processing file 4: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXY.pdf
+2024-11-29 09:51:32,704 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXY.pdf
+2024-11-29 09:51:32,705 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXY.pdf
+2024-11-29 09:51:32,769 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-29 09:51:32,769 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-29 09:51:32,771 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-29 09:51:32,772 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-29 09:51:33,751 -- app_logs -- INFO -- Processing file 5: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXYXTrt.pdf
+2024-11-29 09:51:33,753 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXYXTrt.pdf
+2024-11-29 09:51:33,753 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXYXTrt.pdf
+2024-11-29 09:51:33,819 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-29 09:51:33,819 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-29 09:51:33,821 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-29 09:51:33,821 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-29 09:51:58,508 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 09:51:58,512 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 09:51:58,512 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 09:51:58,512 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 09:52:06,900 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-11-29 09:52:06,900 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-29 09:52:07,359 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-29 09:52:07,359 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-29 09:53:03,395 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
+2024-11-29 09:53:33,406 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender_Usecases/tender_classification_directory/data/vector_store.faiss
+2024-11-29 12:08:21,356 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 13:49:26,184 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 13:50:25,630 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 13:50:40,485 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 13:51:17,756 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-29 13:56:54,581 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 13:56:54,588 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 13:56:54,589 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 13:56:54,589 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 13:57:03,019 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-11-29 13:57:03,019 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-29 13:57:03,479 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-29 13:57:03,479 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-29 14:03:48,324 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 14:03:48,328 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 14:03:48,328 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 14:03:48,328 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-29 14:03:57,127 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-11-29 14:03:57,127 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-29 14:03:57,600 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-29 14:03:57,600 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-02 10:23:03,739 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-02 11:03:09,808 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-02 11:03:09,812 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-02 11:03:09,812 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-02 11:03:09,813 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-02 11:03:18,527 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-02 11:03:18,527 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-02 11:03:19,010 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-02 11:03:19,011 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-02 11:14:06,754 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-02 11:42:00,385 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-02 14:17:42,698 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-02 14:43:30,944 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-02 14:49:48,835 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-02 14:57:37,152 -- keywords_logs -- DEBUG -- Keywords loaded successfully.

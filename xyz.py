@@ -2,6 +2,8 @@ import tempfile
 import os
 import re
 import sys
+import json
+import pandas as pd
 import streamlit as st  # type: ignore
 import zipfile  # Added to handle ZIP files
 from langchain_google_genai import ChatGoogleGenerativeAI # type: ignore
@@ -17,6 +19,7 @@ from langchain.chains import RetrievalQA
 sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 
 # from model.query_system import query_tender
+from cost_estimation.boq_ref_file_funct import process_boq_pdf, extract_reference_data
 from utils.data_utils import load_data, split_data, save_embeddings
 from utils.file_utils import save_uploaded_file, list_uploaded_files, delete_all_files_and_directories
 
@@ -124,7 +127,7 @@ st.sidebar.write("""Choose an option below:""")
 # Navigation options with icons
 page = st.sidebar.selectbox(
     "Select a functionality",
-    ["📄 Tender Classification", "💬 Chat with Tender"]
+    ["📄 Tender Classification", "💬 Chat with Tender", "Tender Cost Estimation"]
 )
 
 
@@ -389,7 +392,7 @@ elif page == "💬 Chat with Tender":
         accept_multiple_files=False,
     )
     
-    index_path = "data/vector_store.faiss/index.faiss"
+    index_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'vector_store.faiss', 'index.faiss')
 
     if uploaded_file:
         # Save the uploaded file
@@ -415,8 +418,10 @@ elif page == "💬 Chat with Tender":
     
     def load_embadding_data():
         
+        index_data_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'vector_store.faiss')
+        
         embeddings = GoogleGenerativeAIEmbeddings(model = "models/text-embedding-004")
-        db = FAISS.load_local("data/vector_store.faiss", embeddings, allow_dangerous_deserialization=True)
+        db = FAISS.load_local(index_data_path, embeddings, allow_dangerous_deserialization=True)
         return db
     
     rag_model = ChatGoogleGenerativeAI(model="gemini-1.5-flash-latest", temperature=0.8, max_output_tokens=8192)
@@ -495,11 +500,110 @@ elif page == "💬 Chat with Tender":
         # If vector database does not exist, prompt the user to upload content
         st.warning("No Knowledgebase found. Please upload document.")
         
-# Add a button to reset or clear data
-if st.sidebar.button("Clear All Uploaded Data"):
-    delete_all_files_and_directories()
-    st.sidebar.success("All uploaded files have been cleared!")
+        
+elif page == "Tender Cost Estimation":
     
+    project_dir = os.path.dirname(os.path.abspath(__file__)) 
+    
+    reference_csv_path = os.path.join(project_dir,"cost_estimation", "reference_df_mod.csv")
+    
+    st.markdown('<div class="title">Tender cost estimation</div>', unsafe_allow_html=True)
+    
+    
+    uploaded_file = st.file_uploader("Upload a PDF for Tender Cost Estimation", type=["pdf"])
+    
+    estimating_model = ChatGoogleGenerativeAI(model="gemini-1.5-flash-latest", temperature=0.1, max_output_tokens=8192)
+    
+    if st.button("Estimate Cost"):
+        if uploaded_file is not None:
+            # Step 1: Save the uploaded file temporarily
+            temp_dir = tempfile.mkdtemp()
+            file_path = os.path.join(temp_dir, uploaded_file.name)
+            with open(file_path, "wb") as f:
+                f.write(uploaded_file.read())
+
+            # Step 2: Process the uploaded PDF to extract data
+            boq_data_str = process_boq_pdf(file_path)
+            
+            # Assuming reference data is already available, you may need to adjust the file path accordingly
+            reference_components, reference_data_str = extract_reference_data(reference_csv_path)
+            
+            # Step 3: Construct the prompt
+            estimating_prompt = f"""
+            Task:  
+            You are an assistant tasked with mapping components from a BOQ file to a reference list of components based on semantic similarity. 
+            Your goal is to identify the most relevant reference component for each BOQ item, considering technical descriptions, quantities, and hierarchical relationships.
+
+            Inputs:  
+            1. Reference Components:  
+            {reference_data_str}
+
+            2. BOQ Components:  
+            {boq_data_str}
+
+            Rules:  
+            - Match components based on technical descriptions and semantic similarity.  
+            - Include hierarchical groupings for sub-items (e.g., 31 -> 31.01, 31.02).  
+            - Handle units like MT, No, Nos, LT, KM, mtr, Year, LOT, Job, and similar.  
+            - If no unit is mentioned, assume the default selling price as the first available reference component's price.  
+            - strictly take note: **Only return matched components**. Do not include any components with `"Mapped Reference Component": "Not Found"`. 
+
+            Output Format Example:
+            {{  
+                "BOQ Component": "Providing and laying in position cement concrete",  
+                "Quantity": "288.00",  
+                "Unit": "cum",  
+                "Mapped Reference Component": "Cement Concrete Mix",  
+                "Unit Price": 1200.00,  
+                "Total Cost": 345600.00     
+            }},
+            {{  
+                "BOQ Component": "Cables (2 Core 1.5sq.mm.)",  
+                "Quantity": "200.00",  
+                "Unit": "M",  
+                "Mapped Reference Component": "Cables (2 Core 1.5sq.mm.)",  
+                "Unit Price": 50.00,  
+                "Total Cost": 10000.00  
+            }}
+            """
+
+            # Step 4: Call the model to get the response
+            response = estimating_model.invoke(estimating_prompt)
+            
+
+            # Assuming the model's response is in JSON format and contains the dictionary you want
+            result = response.content  # Assuming result is in dictionary format now
+            result = result.replace('```','').replace('json','')
+            result = json.loads(result)
+            
+            print(result)
+
+            # Step 5: Convert the result to a DataFrame
+            if result:
+                # Load the result into a DataFrame
+                df = pd.DataFrame(result)
+
+                # Step 6: Calculate the total cost
+                df['Total Cost'] = df['Unit Price'] * df['Quantity'].astype(float)
+
+                # Calculate the total tender cost by summing the 'Total Cost' column
+                total_tender_cost = df['Total Cost'].sum()
+
+                # Step 7: Display the result on the interface
+                st.write("Estimated Tender Cost:")
+                st.write(df)  # Show the DataFrame with detailed information
+                st.write(f"Total Estimated Tender Cost: {total_tender_cost:.2f}")  # Show total cost
+            else:
+                st.error("No result returned from model. Please check the input data.")
+        else:
+            st.warning("Please upload a file first!")
+
+    
+    
+
+if page in ["📄 Tender Classification", "💬 Chat with Tender"]:
+    if st.sidebar.button("Clear All Uploaded Data"):
+        delete_all_files_and_directories()
+        st.sidebar.success("All uploaded files have been cleared!")
+
 st.sidebar.markdown('</div>', unsafe_allow_html=True)
-
-
