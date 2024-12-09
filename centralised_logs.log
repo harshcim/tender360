@@ -1,0 +1,398 @@
+2024-11-27 12:11:53,860 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-27 12:12:17,175 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-22.zip
+2024-11-27 12:12:17,182 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-27 12:12:17,202 -- app_logs -- INFO -- Extracted ZIP to: permanent_upload_directory
+2024-11-27 12:12:17,203 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-11-27 12:12:17,203 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-11-27 12:12:17,203 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-11-27 12:12:26,808 -- pdf_extractor_logs -- DEBUG -- Extracted text from 165 pages.
+2024-11-27 12:12:26,808 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-27 12:12:27,406 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-27 12:12:27,406 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-27 12:12:31,755 -- app_logs -- INFO -- Processing file 2: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-11-27 12:12:31,755 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-11-27 12:12:31,756 -- pdf_extractor_logs -- ERROR -- Unsupported file format: permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-11-27 12:12:31,757 -- processor_logs -- WARNING -- No text found in the document.
+2024-11-27 12:13:14,315 -- data_utils_logs -- INFO -- Successfully loaded 165 documents.
+2024-11-27 12:13:36,843 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender_Usecases/Tender360/app/data/vector_store.faiss
+2024-11-28 17:21:31,007 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-11-28 17:22:16,933 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-11-28 17:22:16,934 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-28 17:22:16,939 -- app_logs -- INFO -- Extracted ZIP to: permanent_upload_directory
+2024-11-28 17:22:16,940 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-11-28 17:22:16,941 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-11-28 17:22:16,941 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/Tech.pdf
+2024-11-28 17:22:18,005 -- pdf_extractor_logs -- DEBUG -- Extracted text from 30 pages.
+2024-11-28 17:22:18,005 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-28 17:22:18,116 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-28 17:22:18,117 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-28 17:22:20,518 -- app_logs -- INFO -- Processing file 2: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/work_1676263.zip
+2024-11-28 17:22:20,519 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/work_1676263.zip
+2024-11-28 17:22:20,519 -- pdf_extractor_logs -- ERROR -- Unsupported file format: permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM/work_1676263.zip
+2024-11-28 17:22:20,519 -- processor_logs -- WARNING -- No text found in the document.
+2024-11-28 17:22:28,366 -- app_logs -- INFO -- Uploaded file: OneDrive_2024-10-17.zip
+2024-11-28 17:22:28,367 -- app_logs -- INFO -- Processing ZIP file.
+2024-11-28 17:22:28,374 -- app_logs -- INFO -- Extracted ZIP to: permanent_upload_directory
+2024-11-28 17:22:28,374 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnW (1).pdf
+2024-11-28 17:22:28,375 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnW (1).pdf
+2024-11-28 17:22:28,375 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnW (1).pdf
+2024-11-28 17:22:28,395 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-28 17:22:28,395 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-28 17:22:28,396 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-28 17:22:28,397 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-28 17:22:30,592 -- app_logs -- INFO -- Processing file 2: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnWY8vX.pdf
+2024-11-28 17:22:30,592 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnWY8vX.pdf
+2024-11-28 17:22:30,592 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filename0wnWY8vX.pdf
+2024-11-28 17:22:30,611 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-28 17:22:30,611 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-28 17:22:30,613 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-28 17:22:30,613 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-28 17:22:31,602 -- app_logs -- INFO -- Processing file 3: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameh9mxQv4m.pdf
+2024-11-28 17:22:31,602 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameh9mxQv4m.pdf
+2024-11-28 17:22:31,603 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameh9mxQv4m.pdf
+2024-11-28 17:22:31,626 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-28 17:22:31,626 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-28 17:22:31,627 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-28 17:22:31,627 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-28 17:22:32,771 -- app_logs -- INFO -- Processing file 4: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXY.pdf
+2024-11-28 17:22:32,772 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXY.pdf
+2024-11-28 17:22:32,772 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXY.pdf
+2024-11-28 17:22:32,837 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-28 17:22:32,837 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-28 17:22:32,839 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-28 17:22:32,839 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-28 17:22:33,802 -- app_logs -- INFO -- Processing file 5: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXYXTrt.pdf
+2024-11-28 17:22:33,802 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXYXTrt.pdf
+2024-11-28 17:22:33,803 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/GMDCHOPURCHASEAUTOMATION01 24-25_Ahmedabad_Design, Supply, Installation, Testing & Commissioning work of PLC Based SCADA system for Plant Automation work_ Due 14-10-2024 600 pm/filenameVmXYXTrt.pdf
+2024-11-28 17:22:33,865 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-11-28 17:22:33,866 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-28 17:22:33,868 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-28 17:22:33,868 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-11-28 17:22:55,027 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-28 17:22:55,030 -- app_logs -- INFO -- Processing file 1: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-28 17:22:55,030 -- processor_logs -- INFO -- Processing tender document: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-28 17:22:55,030 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-11-28 17:23:03,145 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-11-28 17:23:03,145 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-11-28 17:23:03,607 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-11-28 17:23:03,608 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 11:37:01,748 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 11:37:09,066 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:37:09,068 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:37:09,069 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:37:09,069 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:37:17,327 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 11:37:17,327 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 11:37:17,790 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 11:37:17,791 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 11:38:46,671 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:38:46,675 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:38:46,676 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:38:46,676 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:38:54,886 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 11:38:54,886 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 11:38:55,348 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 11:38:55,348 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 11:39:16,790 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:39:16,807 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:39:16,807 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:39:16,808 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:39:17,453 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:39:17,471 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:39:17,472 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:39:17,472 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:39:32,179 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 11:39:32,180 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 11:39:33,161 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 11:39:33,162 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 11:39:34,075 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 11:39:34,075 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 11:39:34,549 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 11:39:34,550 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 11:40:38,674 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:40:38,676 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:40:38,676 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:40:38,677 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:40:46,989 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 11:40:46,989 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 11:40:47,464 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 11:40:47,465 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 11:41:03,525 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:41:03,528 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:41:03,529 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:41:03,529 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 11:41:11,634 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 11:41:11,634 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 11:41:12,092 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 11:41:12,092 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 11:43:31,739 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
+2024-12-03 11:43:49,176 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/app/data/vector_store.faiss
+2024-12-03 12:38:20,242 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 12:38:27,240 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:38:27,245 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:38:27,246 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:38:27,246 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:38:35,479 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 12:38:35,479 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 12:38:35,952 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 12:38:35,953 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 12:39:28,447 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:39:28,450 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:39:28,451 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:39:28,451 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:39:36,679 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 12:39:36,680 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 12:39:37,143 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 12:39:37,143 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 12:40:09,554 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:40:09,556 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:40:09,556 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:40:09,557 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 12:40:17,771 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 12:40:17,771 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 12:40:18,233 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 12:40:18,233 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 12:41:13,099 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
+2024-12-03 12:41:30,965 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-03 12:47:51,382 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
+2024-12-03 12:48:31,703 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-03 12:49:10,043 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 12:49:32,865 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
+2024-12-03 12:49:51,138 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-03 14:17:46,983 -- app_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 14:17:46,986 -- app_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 14:17:46,986 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 14:17:46,986 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 14:17:55,304 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 14:17:55,304 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 14:17:55,767 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 14:17:55,767 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 16:05:43,016 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 16:05:49,970 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:05:49,974 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:05:49,974 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:05:49,974 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:05:58,272 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 16:05:58,272 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 16:05:58,747 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 16:05:58,747 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 16:12:04,164 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:12:04,169 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:12:04,169 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:12:04,169 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:12:12,501 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 16:12:12,501 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 16:12:12,979 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 16:12:12,979 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 16:12:58,876 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:12:58,880 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:12:58,880 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:12:58,881 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:13:07,023 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 16:13:07,023 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 16:13:07,482 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 16:13:07,482 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 16:13:59,787 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 16:14:04,479 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:14:04,482 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:14:04,483 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:14:04,483 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:14:12,542 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 16:14:12,542 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 16:14:13,022 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 16:14:13,023 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 16:15:18,077 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:15:18,082 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:15:18,082 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:15:18,082 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:15:26,092 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 16:15:26,092 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 16:15:26,550 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 16:15:26,551 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 16:49:04,864 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 16:49:23,978 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
+2024-12-03 16:49:43,727 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-03 16:53:16,183 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:53:16,194 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:53:16,195 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:53:16,195 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:53:24,412 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 16:53:24,412 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 16:53:24,892 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 16:53:24,893 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 16:54:00,023 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:54:00,027 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:54:00,028 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:54:00,028 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 16:54:08,435 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 16:54:08,435 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 16:54:08,921 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 16:54:08,922 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 17:49:23,943 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 17:49:38,785 -- tender_classification_logs -- INFO -- Uploaded file: 7 things that your Boss will not tell you.pdf
+2024-12-03 17:49:38,814 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/7 things that your Boss will not tell you.pdf
+2024-12-03 17:49:38,814 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/7 things that your Boss will not tell you.pdf
+2024-12-03 17:49:38,815 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/7 things that your Boss will not tell you.pdf
+2024-12-03 17:49:38,826 -- pdf_extractor_logs -- DEBUG -- Extracted text from 9 pages.
+2024-12-03 17:49:38,826 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-03 17:49:50,912 -- tender_classification_logs -- INFO -- Uploaded file: Chatbot Automation support.pdf
+2024-12-03 17:49:50,913 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Chatbot Automation support.pdf
+2024-12-03 17:49:50,913 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Chatbot Automation support.pdf
+2024-12-03 17:49:50,913 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Chatbot Automation support.pdf
+2024-12-03 17:49:51,373 -- pdf_extractor_logs -- DEBUG -- Extracted text from 8 pages.
+2024-12-03 17:49:51,373 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 17:49:51,384 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 17:49:51,385 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 17:50:01,622 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 17:50:01,624 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 17:50:01,624 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 17:50:01,624 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-03 17:50:09,833 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-03 17:50:09,833 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 17:50:10,296 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 17:50:10,296 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 17:51:14,028 -- data_utils_logs -- INFO -- Successfully loaded 187 documents.
+2024-12-03 17:51:40,068 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-03 18:18:15,189 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 18:20:17,079 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 18:21:55,190 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 18:32:35,664 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 18:32:57,299 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
+2024-12-03 18:33:38,985 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-03 18:35:38,189 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-03 18:35:45,588 -- tender_classification_logs -- INFO -- Uploaded file: 83060AMDTSTENDERPAGES2.zip
+2024-12-03 18:35:45,594 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-03 18:35:45,613 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-03 18:35:45,614 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/82060tenderpages.pdf
+2024-12-03 18:35:45,615 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/82060tenderpages.pdf
+2024-12-03 18:35:45,615 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/82060tenderpages.pdf
+2024-12-03 18:35:49,612 -- pdf_extractor_logs -- DEBUG -- Extracted text from 117 pages.
+2024-12-03 18:35:49,612 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 18:35:49,900 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 18:35:49,901 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 18:36:01,091 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/83060AMDTSTENDERPAGES1.pdf
+2024-12-03 18:36:01,091 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/83060AMDTSTENDERPAGES1.pdf
+2024-12-03 18:36:01,091 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/83060AMDTSTENDERPAGES1.pdf
+2024-12-03 18:36:01,322 -- pdf_extractor_logs -- DEBUG -- Extracted text from 6 pages.
+2024-12-03 18:36:01,322 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 18:36:01,331 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 18:36:01,332 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 18:36:02,549 -- tender_classification_logs -- INFO -- Processing file 3: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/83060AMDTSTENDERPAGES2.pdf
+2024-12-03 18:36:02,551 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/83060AMDTSTENDERPAGES2.pdf
+2024-12-03 18:36:02,552 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/83060AMDTSTENDERPAGES2.pdf
+2024-12-03 18:36:02,616 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-12-03 18:36:02,616 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 18:36:02,618 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 18:36:02,618 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-03 18:36:03,556 -- tender_classification_logs -- INFO -- Processing file 4: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/83060AMDTSTENDERPAGES3.pdf
+2024-12-03 18:36:03,557 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/83060AMDTSTENDERPAGES3.pdf
+2024-12-03 18:36:03,558 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/83060AMDTSTENDERPAGES3.pdf
+2024-12-03 18:36:03,725 -- pdf_extractor_logs -- DEBUG -- Extracted text from 6 pages.
+2024-12-03 18:36:03,726 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-03 18:36:03,734 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-03 18:36:03,734 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-04 15:58:41,302 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-04 16:16:57,929 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-04 16:21:16,789 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-04 16:59:53,438 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-04 18:44:54,751 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-05 10:16:24,089 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-05 12:19:10,203 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-22.zip
+2024-12-05 12:19:10,211 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-05 12:19:10,217 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-05 12:19:10,218 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-12-05 12:19:10,218 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-12-05 12:19:10,219 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-12-05 12:19:20,285 -- pdf_extractor_logs -- DEBUG -- Extracted text from 165 pages.
+2024-12-05 12:19:20,285 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-05 12:19:20,876 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-05 12:19:20,876 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-05 12:19:24,604 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-12-05 12:19:24,604 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-12-05 12:19:24,604 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/work_436332.zip
+2024-12-05 12:19:24,605 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-05 12:19:36,314 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-22.zip
+2024-12-05 12:19:36,341 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-05 12:19:36,354 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-05 12:19:36,354 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-12-05 12:19:36,354 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-12-05 12:19:36,354 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-12-05 12:19:37,074 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-22.zip
+2024-12-05 12:19:37,101 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-05 12:19:37,145 -- pdf_extractor_logs -- ERROR -- Error extracting text from PDF: Stream has ended unexpectedly
+2024-12-05 12:19:37,145 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-05 12:19:37,194 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-05 12:19:37,194 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-05 12:19:37,202 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-05 12:19:37,203 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-12-05 12:19:37,203 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-12-05 12:19:37,203 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UAD_368946_1_MP_WORK OF AUGMENTATION OF WATER SUPPLY SYSTEM OF KAKARHATI TOWN UNDER AMRUT 2.0 DISTT_Due 23-Oct-2024 0530 PM/Annexure.pdf
+2024-12-05 12:19:47,509 -- pdf_extractor_logs -- DEBUG -- Extracted text from 165 pages.
+2024-12-05 12:19:47,509 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-05 12:19:48,215 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-05 12:19:48,216 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-05 15:36:15,078 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-05 15:36:24,665 -- tender_classification_logs -- INFO -- Uploaded file: work_91262.zip
+2024-12-05 15:36:24,665 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-05 15:36:24,677 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-05 15:36:24,678 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:36:24,678 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:36:24,678 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:36:24,678 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-05 15:36:26,840 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-05 15:36:26,841 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-05 15:36:26,842 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-05 15:36:31,613 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-12-05 15:36:31,613 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-05 15:36:31,943 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-05 15:36:31,944 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-05 15:37:05,403 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-05 15:37:05,403 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-05 15:37:05,408 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-05 15:37:05,409 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:37:05,409 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:37:05,409 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:37:05,409 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-05 15:37:06,172 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-05 15:37:06,172 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-05 15:37:06,172 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-05 15:37:06,172 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-05 15:37:07,297 -- tender_classification_logs -- INFO -- Processing file 3: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-05 15:37:07,297 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-05 15:37:07,298 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-05 15:37:12,217 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-12-05 15:37:12,217 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-05 15:37:12,549 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-05 15:37:12,549 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-05 15:37:41,089 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-05 15:37:41,089 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-05 15:37:41,116 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-05 15:37:41,118 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:37:41,118 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:37:41,118 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:37:41,118 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-05 15:37:41,504 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-05 15:37:41,504 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-05 15:37:41,526 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-05 15:37:41,528 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:37:41,529 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:37:41,529 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BOQ_91262.xls
+2024-12-05 15:37:41,529 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-05 15:37:42,301 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-05 15:37:42,302 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-05 15:37:42,302 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-05 15:37:42,302 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-05 15:37:43,290 -- tender_classification_logs -- INFO -- Processing file 3: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-05 15:37:43,290 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-05 15:37:43,291 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-05 15:37:48,398 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-12-05 15:37:48,399 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-05 15:37:48,738 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-05 15:37:48,738 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-05 15:37:55,477 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-05 15:37:55,477 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-05 15:37:55,481 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-05 15:37:55,482 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-05 15:37:55,482 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-05 15:37:55,482 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-05 15:37:55,482 -- processor_logs -- WARNING -- No text found in the document.

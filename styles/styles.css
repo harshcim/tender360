@@ -1,0 +1,121 @@
+/* Main page background */
+.main {
+    background: linear-gradient(135deg, #f7f7f7, #e3f2fd);
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Sidebar styling */
+.sidebar .sidebar-content {
+    background-color: #f0f3f4;  /* Light background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Sidebar title */
+.sidebar .sidebar-content h1 {
+    color: #2E86C1;
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e3f2fd;
+}
+
+/* Sidebar button */
+.stButton>button {
+    background-color: #007bff;
+    color: white;
+    border-radius: 8px;
+    margin-top: 10px;
+    transition: background-color 0.2s ease;
+}
+.stButton>button:hover {
+    background-color: #0056b3;
+}   
+
+/* Title styling */
+.title {
+    color: #2E86C1;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(135deg, #e3f2fd, #ffffff);
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* File uploader styling */
+.stFileUploader {
+    border-radius: 8px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Processing info styling */
+.stInfo {
+    background-color: #e8f4f8;
+    border-left: 6px solid #007bff;
+    color: #0b3954;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/* Relevance status and categories */
+.status {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #007bff;
+}
+.categories {
+    font-size: 25px;
+    text-align: center;
+    color: #28B463;
+}
+
+/* Keyword list */
+.keyword-list {
+    font-size: 18px;
+    margin-left: 20px;
+    color: #333;
+}
+
+/* Separator line */
+hr {
+    border: 1px solid #ddd;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: #757575;
+    margin-top: 50px;
+}
+.footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Styling for keyword occurrences */
+.keyword-item {
+background-color: #e1f5fe; /* Light blue background */
+border: 1px solid #bbdefb; /* Slightly darker border */
+border-radius: 5px; /* Rounded corners */
+padding: 10px; /* Padding for aesthetics */
+margin: 5px 0; /* Space between keywords */
+transition: transform 0.2s; /* Animation on hover */
+}
+
+.keyword-item:hover {
+transform: scale(1.02); /* Slight scale up on hover */
+}
+
+.badge {
+background-color: #28B463; /* Green background for relevance */
+color: white; /* White text */
+border-radius: 12px; /* Rounded corners */
+padding: 5px 10px; /* Padding for aesthetics */ 
+margin-left: 10px; /* Space from keyword */
+font-size: 14px; /* Font size */
+} 

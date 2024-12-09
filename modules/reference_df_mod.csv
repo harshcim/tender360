@@ -1,0 +1,46 @@
+"SL.
+NO.",Item Name,Selling Price/Nos
+1,Radar Type Level Transmitter (0-12 Meter),32000
+2,Radar Type Level Transmitter (0-30 Meter),48000
+3,Radar Type Level Transmitter (0-80 Meter),72000
+4,Ultrasonic Level Transmitter (0-5 meter),15520
+5,Ultrasonic Level Transmitter (0-8 meter),19200
+6,Ultrasonic Level Transmitter (0-10 meter),24000
+7,Loss of Head Transmitter (LOH),28800
+8,Rate of Flow Transmitter (ROF),23680
+9,Open Channel Flow Transmitter,33280
+10,Pressure Gauge 16 bar,1920
+11,Pressure Transmitter (0-25 Bar),5120
+12,pH Analyser,22400
+13,Residual Chlorine Analyser,43200
+14,Turbidity Analyser,68800
+15,Multifunction Meter with CT,5760
+16,Electromagnetic Flowmeter,
+,Electromagnetic Flowmeter 80 mm,46839
+,Electromagnetic Flowmeter 100 mm,50158
+,Electromagnetic Flowmeter 125 mm,53709
+,Electromagnetic Flowmeter 150 mm,59885
+,Electromagnetic Flowmeter 200 mm,73750
+,Electromagnetic Flowmeter 250 mm,87088
+,Electromagnetic Flowmeter 300 mm,103763
+17,Motorised Butterfly Valves,
+,Motorised Butterfly Valves 80 mm,30336
+,Motorised Butterfly Valves 100 mm,33024
+,Motorised Butterfly Valves 125 mm,38400
+,Motorised Butterfly Valves 150 mm,47616
+,Motorised Butterfly Valves 200 mm,64320
+,Motorised Butterfly Valves 250 mm,97920
+,Motorised Butterfly Valves 300 mm,132963
+18,SCADA Software,350000
+19,PLC/RTU for Intake Well ,361014
+20,RTU for WTP,1153582
+21,RTU for Filter Bed,227200
+22,RTU for OHT/ZBT/ESR/OHR/BPT,34400
+23,RTU for IPS (Intermidiate Pumping Station),200800
+24,RTU for Clear Water Pumping Station,239200
+25,UPS 2KVA with 30 min Backup,44240
+26,UPS 2KVA with 60 min Backup,92000
+27,UPS 3KVA with 30 min Backup,86880
+28,UPS 3KVA with 60 min Backup,98400
+29,UPS 5KVA with 60 min Backup,151680
+30,UPS 5KVA with 120 min Backup,208320

@@ -1,0 +1,152 @@
+"Name of the
+Bidder/
+Bidding Firm /
+Company :",,,,,,,,
+"PRICE SCHEDULE
+(DOMESTIC TENDERS - RATES ARE TO GIVEN IN RUPEES (INR) ONLY)
+(This BOQ template must not be modified/replaced by the bidder and the same should be uploaded after filling the relevant columns, else the bidder is liable to be rejected for this tender. Bidders are allowed to enter the Bidder Name
+and Values only )",,,,,,,,
+NUMBER #,TEXT #,NUMBER #,TEXT #,NUMBER #,NUMBER,NUMBER #,NUMBER #,TEXT #
+"Sl.
+No.",Item Description,Quantity,Units,"BASIC RATE In
+Figures To be
+entered by the
+Bidder in
+Rs. P","GST Amount in
+INR
+Rs. P","F.O.R Rate
+WithTaxes
+col (13) = (7) + (9)
+in
+Rs. P","TOTAL AMOUNT
+With Taxes
+col (14) = (4) x (13)
+in
+Rs. P",TOTAL AMOUNT In Words
+1,2,4,5,7,9,13,14,15
+1,IT Hardware for SCADA/ADMS for Main Control Centre and RVDUs,,,,,,,
+1.01,ISR server,2,Nos.,,,0.00,0.00,INR Zero Only
+1.02,SMS gateway Server,1,Nos.,,,0.00,0.00,INR Zero Only
+1.03,Workstation with dual TFT Monitors ( S/S monitoring),5,Nos.,,,0.00,0.00,INR Zero Only
+1.04,Workstation with dual TFT Monitors (Network monitoring),3,Nos.,,,0.00,0.00,INR Zero Only
+1.05,Remote VDUs with one TFT Monitors,4,Nos.,,,0.00,0.00,INR Zero Only
+1.06,Developmental console with one TFT,1,Nos.,,,0.00,0.00,INR Zero Only
+2,Storage & Backup Devices,,,,,,,
+2.01,SAN STORAGE 12 TB,2,Nos.,,,0.00,0.00,INR Zero Only
+2.02,Exteranl DAT drive,2,Nos.,,,0.00,0.00,INR Zero Only
+3,Routers,,,,,,,
+3.01,Router at remote VDU,4,Nos.,,,0.00,0.00,INR Zero Only
+4,Security system (DMZ),,,,,,,
+4.01,Router,2,Nos.,,,0.00,0.00,INR Zero Only
+4.02,Firewall & network IDS/IPS,2,Nos.,,,0.00,0.00,INR Zero Only
+4.03,Layer III switch,2,Nos.,,,0.00,0.00,INR Zero Only
+4.04,Mandatory Spare @ 5% of hardware part for control cneter,1,L/s,,,0.00,0.00,INR Zero Only
+5,IT Hardware for SCADA/ADMS for backup Control Centre,,,,,,,
+5.01,ISR server,2,Nos.,,,0.00,0.00,INR Zero Only
+5.02,SMS gateway,2,Nos.,,,0.00,0.00,INR Zero Only
+5.03,Workstation with dual TFT Monitors ( S/S monitoring),5,Nos.,,,0.00,0.00,INR Zero Only
+5.04,Workstation with dual TFT Monitors (Network monitoring),3,Nos.,,,0.00,0.00,INR Zero Only
+5.05,Developmental console with one TFT,1,Nos.,,,0.00,0.00,INR Zero Only
+6,Storage & Backup Devices,,,,,,,
+6.01,Exteranl DAT drive,2,Nos.,,,0.00,0.00,INR Zero Only
+6.02,SAN STORAGE 12 TB,1,Nos.,,,0.00,0.00,INR Zero Only
+7,Security system (DMZ),,,,,,,
+7.01,Router,2,Nos.,,,0.00,0.00,INR Zero Only
+7.02,Firewall & network IDS/IPS,2,Nos.,,,0.00,0.00,INR Zero Only
+7.03,Layer III switch,2,Nos.,,,0.00,0.00,INR Zero Only
+7.04,Mandatory Spare @ 5% of hardware part for backup center,1,L/s,,,0.00,0.00,INR Zero Only
+8,Software required for SCADA/ADMS at MCC,,,,,,,
+8.01,ISR Software,1,Lot,,,0.00,0.00,INR Zero Only
+8.02,Integration with National SCADA Resource Center,1,Lot,,,0.00,0.00,INR Zero Only
+8.03,Network Management Software,1,Lot,,,0.00,0.00,INR Zero Only
+8.04,"Any other software to meet functional/performance requierments to achieve
+SCADA system as per RFP",1,LOT,,,0.00,0.00,INR Zero Only
+9,Software required for SCADA/ADMS at BCC,,,,,,,
+9.01,"Any other software to meet functional/performance requierments to achieve
+SCADA system as per RFP",1,LOT,,,0.00,0.00,INR Zero Only
+9.02,ISR Software,1,Nos.,,,0.00,0.00,INR Zero Only
+10,Remote terminal Unit (RTU),,,,,,,
+10.01,"RTU base equipment comprising panels, racks, sub-racks, Power Supply modules,
+CPU, interfacing equipment, required converters & all other required
+items/accessories including complete wiring for all modules",92,Nos.,,,0.00,0.00,INR Zero Only
+10.02,"Layer II Switch for integration of Numerical Relay with RTU ( 24 Port) ( Industrial grade )
+IEC 61850",92,Nos.,,,0.00,0.00,INR Zero Only
+10.03,Multifunctuions transducers,365,Nos.,,,0.00,0.00,INR Zero Only
+10.04,Contact Multiplying Relays (CMRs),13206,Nos.,,,0.00,0.00,INR Zero Only
+10.05,Heavy duty relays for Control,2300,Nos.,,,0.00,0.00,INR Zero Only
+10.06,Transformer Transducers,444,Nos.,,,0.00,0.00,INR Zero Only
+10.07,Dummy Breaker Latching Relays,92,Nos.,,,0.00,0.00,INR Zero Only
+10.08,Single TFT PC for LDMS,106,Nos.,,,0.00,0.00,INR Zero Only
+10.09,LDMS software,106,Nos.,,,0.00,0.00,INR Zero Only
+10.10,Mandatory Spare @5% of hardware part for RTU,1,L/s,,,0.00,0.00,INR Zero Only
+11,TEST Software/Hardware Tools for RTU,,,,,,,
+11.01,RTU Database Configuration & Maintenance Software tool,6,No.,,,0.00,0.00,INR Zero Only
+11.02,Master Station cum RTU Simulator & Protocol analyser software tool,6,No.,,,0.00,0.00,INR Zero Only
+11.03,"Laptop for the installation of above software tools along with interfacing hardware
+including Hub",6,No.,,,0.00,0.00,INR Zero Only
+12,Feeder Remote terminal Unit (FRTU),,,,,,,
+12.01,"Mini pole mounted FRTU base equipment along with enclosure suitable to work in open
+environment (Adequate protection from water & dust) , racks, sub-racks, Power Supply
+modules with power backup , I/o modules, CPU, interfacing equipment, required
+converters & all other required items/accessories including complete wiring for all modules.",1238,Nos.,,,0.00,0.00,INR Zero Only
+12.02,FRTU Database Configuration & Maintenance Software tool,14,Nos.,,,0.00,0.00,INR Zero Only
+12.03,Master Station cum FRTU Simulator & Protocol analyser software tool,14,Nos.,,,0.00,0.00,INR Zero Only
+12.04,Laptop PC for above software tools along with interfacing hardware including Hub,14,Nos.,,,0.00,0.00,INR Zero Only
+12.05,Mandatory Spare @5% of hardware part of FRTU,1,L/s,,,0.00,0.00,INR Zero Only
+13,Communication System,,,,,,,
+13.01,2 year Charges for 10 Mbps Links with RTUs from date of project go live,92,Nos.,,,0.00,0.00,INR Zero Only
+13.02,MPLS/SDWAN Router,98,Nos.,,,0.00,0.00,INR Zero Only
+13.03,2 year Charges for 2 Mbps Links with FRTUs /FPI from date of project go live,1238,Nos.,,,0.00,0.00,INR Zero Only
+13.04,Modems,1238,Nos.,,,0.00,0.00,INR Zero Only
+13.05,Mandatory Spare @ 5% of hardware for communication system,1,L/s,,,0.00,0.00,INR Zero Only
+14,Power Supply,,,,,,,
+14.01,"24V DC Power Supply (DCPS) system based on SMPS for RTU / Data Concentrator /
+Communication Equipment",92,Nos.,,,0.00,0.00,INR Zero Only
+14.02,24 V DC Power Supply (DCPS) system based on SMPS for FRTU,1238,Nos.,,,0.00,0.00,INR Zero Only
+14.03,UPS (2 kVA ),4,Nos.,,,0.00,0.00,INR Zero Only
+14.04,Mandatory Spare @5% of hardware for power supply item,1,L/s,,,0.00,0.00,INR Zero Only
+15,RMU,,,,,,,
+15.01,11 KV 3W RMU,655,Nos.,,,0.00,0.00,INR Zero Only
+15.02,11 KV 4W RMU,118,Nos.,,,0.00,0.00,INR Zero Only
+15.03,33KV 4W RMU,45,Nos.,,,0.00,0.00,INR Zero Only
+15.04,11 KV Auto recloser,257,Nos.,,,0.00,0.00,INR Zero Only
+15.05,Numerical relay /BCPU(SCADA compatible),660,Nos.,,,0.00,0.00,INR Zero Only
+15.06,11 KV Sectionalizer,163,Nos.,,,0.00,0.00,INR Zero Only
+15.07,"Mandatory Spare @5% of hardware for RMU, sectinaliser, auto recloser and bpcu",1,L/s,,,0.00,0.00,INR Zero Only
+16,Project Management Cost,,,,,,,
+16.01,"Installation, Testing and Commissioning Cost to Integrate Entire SCADA & IT (relevant to
+SCADA) Infrastructure",1,Job,,,0.00,0.00,INR Zero Only
+16.02,Integration with legacy applications & Data Migration,1,Job,,,0.00,0.00,INR Zero Only
+16.03,Training for the Employees,1,Job,,,0.00,0.00,INR Zero Only
+17,FMS Charges,,,,,,,
+17.01,FMS SERVICES FOR 5 YEARS AFTER GO-L IVE,1,Lot,,,0.00,0.00,INR Zero Only
+18,DT Health Management(DTHM),,,,,,,
+18.01,Lug Temprature Sensor,5200,Nos,,,0.00,0.00,INR Zero Only
+18.02,Oil Temparature Sensor,1300,Nos,,,0.00,0.00,INR Zero Only
+18.03,Oil Level Sensor,2600,Nos,,,0.00,0.00,INR Zero Only
+18.04,5G Gateway,1300,Nos,,,0.00,0.00,INR Zero Only
+18.05,DCU,1300,Nos,,,0.00,0.00,INR Zero Only
+18.06,Software as a Service(SaaS) Base web dashboard(12 Month),2,Year,,,0.00,0.00,INR Zero Only
+18.07,Annual Maintenance (12 Month),2,Year,,,0.00,0.00,INR Zero Only
+19,"Voltage Regulations & Harmonic Management-Power Quality meters, Active
+Harmonic Filter and Smart Inverters",,,,,,,
+19.01,Power Quality Meter/ Analyzer,106,Nos,,,0.00,0.00,INR Zero Only
+19.02,Active Harmonic Filter,106,Nos,,,0.00,0.00,INR Zero Only
+19.03,Smart Inverters,106,Nos,,,0.00,0.00,INR Zero Only
+20,Reconductoring and Development of Ring Main System,,,,,,,
+20.01,Cable H.T.XLPE 11 KV 3x185 SQ.M.M,156,Km,,,0.00,0.00,INR Zero Only
+20.02,Cable Termination Kits O/D 11 KV 3x185 XLPE,2437,No,,,0.00,0.00,INR Zero Only
+20.03,Cable Termination Kits I/D 11 KV 3x185 XLPE,2437,Mtr.,,,0.00,0.00,INR Zero Only
+20.04,Cable H.T.XLPE 33 KV 3x300 SQ.M.M,9,Km,,,0.00,0.00,INR Zero Only
+20.05,Cable Termination Kits O/D 33 KV 3x300 SQ.M.M,180,Mtr.,,,0.00,0.00,INR Zero Only
+20.06,Cable Termination Kits I/D 33 KV 3x300 SQ.M.M,180,Mtr.,,,0.00,0.00,INR Zero Only
+20.07,11 Mtr STP Pole (SP-55),900,Mtr.,,,0.00,0.00,INR Zero Only
+20.08,9.5 Mtr STP Pole (SP-33),300,Nos.,,,0.00,0.00,INR Zero Only
+20.09,"MS Items such as Clamp, MS Channel, MS Angle",9,MT,,,0.00,0.00,INR Zero Only
+20.10,MS Pipe 160 mm dia 3 metre long,1636,No,,,0.00,0.00,INR Zero Only
+20.11,"Sundries Items such as earthing set, stay set, Danger plate, Pin Insulator, Barbed wire, Nut
+bolts, disc insulators, etc.",1,LS,,,0.00,0.00,INR Zero Only
+21.00 Co,"ntrol/power cable for RTUs from outdoor switchgear,if any at S/S and numerical relays",,,,,,,
+21.01,Control /Power cable,19,Km,,,0.00,0.00,INR Zero Only
+Total in Figures,,,,,,0.00,0.00,INR Zero Only
+Quoted Rate in Words,,INR Zero Only,,,,,,
