@@ -1,9 +1,16 @@
-PyPDF2==3.0.1
-spacy
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0.tar.gz
+PyPDF2
 streamlit==1.26.0
 langchain
 google-generativeai
+
+pdfplumber
+langchain-google-genai
+langchain-community
 python-docx
 faiss-cpu
 python-dotenv
+PyPDF2
+pypdf
+spacy>=3.6.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl
+
