@@ -9,3 +9,4 @@ faiss-cpu
 python-dotenv
 rarfile
 langchain_google_genai
+pydantic==1.10.9
