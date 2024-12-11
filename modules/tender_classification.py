@@ -1,6 +1,8 @@
 import os
 import sys
-import rarfile
+import rarfile # type: ignore
+import shutil
+from pathlib import Path
 import streamlit as st  # type: ignore
 import zipfile  # Added to handle ZIP files
 from langchain_google_genai import ChatGoogleGenerativeAI # type: ignore
@@ -154,57 +156,73 @@ def process_with_llm(status, keyword_occurrences,llm_model):
 #         processing_placeholder.success("✅ Processing completed!")
 
 
+def extract_and_store_files(archive_file, upload_directory, allowed_extensions):
+    """
+    Extracts files from an archive and stores only files with allowed extensions in the upload directory.
+    
+    """
+    temp_dir = Path(upload_directory) / "temp_extract"
+    temp_dir.mkdir(parents=True, exist_ok=True)
+
+    try:
+        archive_file.extractall(temp_dir)
+        for root, _, files in os.walk(temp_dir):
+            for file in files:
+                file_path = Path(root) / file
+                if file_path.suffix.lower() in allowed_extensions:
+                    shutil.move(str(file_path), upload_directory)
+    finally:
+        # Clean up temporary directory
+        shutil.rmtree(temp_dir)
+
+
+
 def process_uploaded_file(uploaded_file, upload_directory):
 
     logger.info(f"Uploaded file: {uploaded_file.name}")
 
-    # Handle ZIP files
-    if uploaded_file.type == "application/zip" or uploaded_file.name.lower().endswith(".zip"):
-        logger.info("Processing ZIP file.")
-        try:
+    # Ensure the upload directory exists
+    Path(upload_directory).mkdir(parents=True, exist_ok=True)
+    
+    # Get the file name and extension
+    file_name = uploaded_file.name
+    file_extension = Path(file_name).suffix.lower()
+    allowed_extensions = {".pdf", ".docx"}
+
+    
+    try:
+        if file_extension == ".zip":
+            # Handle ZIP file
             with zipfile.ZipFile(uploaded_file, 'r') as zip_ref:
-                zip_ref.extractall(upload_directory)  # Extract directly to permanent directory
-                logger.info(f"Extracted ZIP to: {upload_directory}")
-        except zipfile.BadZipFile:
-            st.error("The uploaded ZIP file is corrupted or not a valid ZIP archive.")
-            logger.warning("Bad ZIP file uploaded.")
-            st.stop()
-        except Exception as e:
-            st.error(f"An unexpected error occurred: {e}")
-            logger.error(f"Unexpected error: {e}")
-            st.stop()
+                extract_and_store_files(zip_ref, upload_directory, allowed_extensions)
+            print(f"Extracted contents of ZIP file '{file_name}' to '{upload_directory}'")
 
-    # Handle RAR files
-    elif uploaded_file.name.lower().endswith(".rar"):
-        logger.info("Processing RAR file.")
-        try:
-            with rarfile.RarFile(uploaded_file) as rar_ref:
-                rar_ref.extractall(upload_directory)  # Extract directly to permanent directory
-                logger.info(f"Extracted RAR to: {upload_directory}")
-        except rarfile.BadRarFile:
-            st.error("The uploaded RAR file is corrupted or not a valid RAR archive.")
-            logger.warning("Bad RAR file uploaded.")
-            st.stop()
-        except Exception as e:
-            st.error(f"An unexpected error occurred: {e}")
-            logger.error(f"Unexpected error: {e}")
-            st.stop()
+        elif file_extension == ".rar":
+            # Handle RAR file
+            with rarfile.RarFile(uploaded_file, 'r') as rar_ref:
+                extract_and_store_files(rar_ref, upload_directory, allowed_extensions)
+            print(f"Extracted contents of RAR file '{file_name}' to '{upload_directory}'")
 
-    # Handle single PDF or DOCX files
-    elif uploaded_file.type == "application/pdf" or uploaded_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document":
-        logger.info(f"Saving file: {uploaded_file.name}")
-        try:
-            file_path = os.path.join(upload_directory, uploaded_file.name)
-            with open(file_path, "wb") as file:
-                file.write(uploaded_file.read())
-        except Exception as e:
-            st.error(f"Error saving the uploaded file: {e}")
-            st.stop()
+        elif file_extension in allowed_extensions:
+            # Handle direct PDF or DOCX file
+            output_path = os.path.join(upload_directory, file_name)
+            with open(output_path, "wb") as out_file:
+                out_file.write(uploaded_file.read())
+            print(f"Saved file '{file_name}' to '{upload_directory}'")
 
-    else:
-        st.error("Unsupported file type uploaded.")
-        return
+        else:
+            # Unsupported file type
+            raise ValueError(f"Unsupported file format: '{file_extension}'")
 
+    except zipfile.BadZipFile:
+        print(f"Error: The file '{file_name}' is not a valid ZIP archive.")
+    except rarfile.BadRarFile:
+        print(f"Error: The file '{file_name}' is not a valid RAR archive.")
+    except Exception as e:
+        print(f"Error processing file '{file_name}': {e}")
+
+    
+    
     # Display processing message
     processing_placeholder = st.empty()
     processing_placeholder.info("Processing the document(s)... Please wait.")
@@ -212,6 +230,7 @@ def process_uploaded_file(uploaded_file, upload_directory):
     # Process all files in the upload directory
     for idx, document in enumerate(os.listdir(upload_directory), 1):
         document_path = os.path.join(upload_directory, document)
+        
 
         # Update the placeholder with the current processing file
         processing_placeholder.info(f"Processing File {idx}: `{os.path.basename(document_path)}`")
@@ -236,3 +255,8 @@ def process_uploaded_file(uploaded_file, upload_directory):
 
     # Update the processing message to indicate completion
     processing_placeholder.success("✅ Processing completed!")
+
+
+
+
+

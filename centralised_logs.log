@@ -396,3 +396,392 @@
 2024-12-05 15:37:55,482 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
 2024-12-05 15:37:55,482 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
 2024-12-05 15:37:55,482 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 12:16:14,182 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-09 12:22:06,345 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-09 12:22:15,220 -- data_utils_logs -- INFO -- Successfully loaded 30 documents.
+2024-12-09 12:22:21,199 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-09 12:24:07,760 -- data_utils_logs -- INFO -- Successfully loaded 480 documents.
+2024-12-09 12:24:39,785 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-09 14:17:45,116 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 14:17:45,116 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 14:17:45,120 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 14:17:45,121 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 14:17:45,121 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 14:17:45,121 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 14:17:45,121 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 14:18:10,125 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 14:18:10,125 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 14:18:10,126 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 14:18:10,127 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:18:10,127 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:18:10,127 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:18:10,127 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 14:18:54,747 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 14:18:54,748 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 14:18:54,749 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 14:18:54,751 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:18:54,751 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:18:54,751 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:18:54,751 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 14:22:06,331 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 14:22:06,331 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 14:22:06,332 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 14:22:06,333 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:22:06,333 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:22:06,334 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:22:06,334 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 14:22:16,929 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 14:22:16,930 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 14:22:16,938 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 14:22:16,941 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:22:16,941 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:22:16,941 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:22:16,942 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 14:22:17,467 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 14:22:17,467 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 14:22:17,473 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 14:22:17,476 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:22:17,477 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:22:17,477 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 14:22:17,477 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 14:22:25,158 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (2).zip
+2024-12-09 14:22:25,158 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 14:22:25,171 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 14:22:25,172 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024
+2024-12-09 14:22:25,172 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024
+2024-12-09 14:22:25,172 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024
+2024-12-09 14:22:25,172 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 14:26:04,102 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (2).zip
+2024-12-09 14:26:04,102 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 14:26:04,128 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 14:26:04,129 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024
+2024-12-09 14:26:04,129 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024
+2024-12-09 14:26:04,129 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024
+2024-12-09 14:26:04,129 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 14:26:04,675 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (2).zip
+2024-12-09 14:26:04,676 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 14:26:04,708 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 14:26:04,710 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024
+2024-12-09 14:26:04,710 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024
+2024-12-09 14:26:04,710 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_Raipur_HPCL_CATHODIC PROTECTION AT RAIPUR_Due 16-OCT-2024
+2024-12-09 14:26:04,710 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 14:47:37,533 -- data_utils_logs -- INFO -- Successfully loaded 30 documents.
+2024-12-09 14:47:46,719 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-09 14:48:38,068 -- data_utils_logs -- INFO -- Successfully loaded 480 documents.
+2024-12-09 14:49:15,549 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-09 15:11:15,345 -- data_utils_logs -- INFO -- Successfully loaded 477 documents.
+2024-12-09 15:11:15,805 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:11:15,805 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:11:15,810 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:11:15,811 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:15,812 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:15,812 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:15,812 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:11:38,142 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:11:38,142 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:11:38,149 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:11:38,150 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:38,150 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:38,150 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:38,150 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:11:38,723 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:11:38,724 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:11:38,740 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:11:38,742 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:38,742 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:38,742 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:38,742 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:11:49,523 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-09 15:11:53,268 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:11:53,268 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:11:53,272 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:11:53,273 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:53,273 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:53,273 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:11:53,273 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:13:13,655 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:13:13,655 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:13:13,660 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:13:13,661 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:13:13,661 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:13:13,661 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:13:13,661 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:13:29,786 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 15:13:29,786 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:13:29,788 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:13:29,789 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:13:29,789 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:13:29,789 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:13:29,789 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:16:28,518 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:28,518 -- tender_classification_logs -- INFO -- Saving file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:28,521 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:16:28,521 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:16:28,521 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:16:28,521 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:16:29,200 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:29,201 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:29,201 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:37,880 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-09 15:16:37,880 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 15:16:38,358 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 15:16:38,359 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 15:16:41,743 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:41,743 -- tender_classification_logs -- INFO -- Saving file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:41,748 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:41,748 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:41,748 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 15:16:50,376 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-09 15:16:50,376 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 15:16:50,853 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 15:16:50,854 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 15:17:53,583 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:17:53,583 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:17:53,587 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:17:53,588 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:17:53,588 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:17:53,588 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:17:53,588 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:39:08,264 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 15:39:08,264 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:39:08,266 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:39:08,267 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:39:08,267 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:39:08,267 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:39:08,267 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:39:35,368 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-09 15:39:42,756 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 15:39:42,756 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:39:42,757 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:39:42,758 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:39:42,758 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:39:42,758 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:39:42,759 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:40:29,036 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 15:40:29,037 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:40:29,045 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:40:29,047 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:40:29,048 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:40:29,048 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2024_UPTCL_928885_2_UP_work of SCADA integration against increasing capacity at 220 KV SS Sirsaganj_ Due 14-Oct-2024 1200 PM
+2024-12-09 15:40:29,048 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:40:36,760 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:40:36,760 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:40:36,765 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:40:36,766 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:40:36,766 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:40:36,766 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:40:36,766 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:54:15,818 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:54:15,819 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:54:15,823 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:54:15,824 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:54:15,824 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:54:15,824 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:54:15,824 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:56:36,764 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:56:36,764 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:56:36,778 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:56:36,778 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:56:36,779 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:56:36,779 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:56:36,779 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 15:56:54,476 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-09 15:57:12,963 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 15:57:12,963 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 15:57:12,967 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 15:57:12,968 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:57:12,968 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:57:12,968 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 15:57:12,968 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:00:46,189 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 16:00:46,189 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 16:00:46,195 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 16:00:46,196 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:00:46,196 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:00:46,196 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:00:46,196 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:03:32,037 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 16:03:32,038 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 16:03:32,042 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 16:03:32,044 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:03:32,044 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:03:32,044 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:03:32,044 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:26:34,969 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 16:26:34,969 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 16:26:34,974 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 16:26:34,975 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:26:34,975 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:26:34,975 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:26:34,975 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:38:42,777 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 16:38:42,777 -- tender_classification_logs -- INFO -- Processing ZIP file.
+2024-12-09 16:38:42,790 -- tender_classification_logs -- INFO -- Extracted ZIP to: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory
+2024-12-09 16:38:42,791 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:38:42,791 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:38:42,791 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:38:42,791 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:40:48,959 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-09 16:40:54,864 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 16:40:54,870 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:40:54,870 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:40:54,870 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:40:54,871 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:42:06,701 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 16:42:06,723 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:42:06,723 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:42:06,723 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:42:06,723 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:42:16,367 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 16:42:16,374 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:42:16,374 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:42:16,374 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:42:16,374 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:43:24,791 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 16:43:24,794 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 16:43:24,795 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 16:43:24,795 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 16:43:33,332 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-09 16:43:33,333 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:43:33,806 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:43:33,807 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:43:37,796 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:43:37,796 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:43:37,796 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:43:37,797 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:44:20,254 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 16:44:20,260 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:44:20,260 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:44:20,260 -- pdf_extractor_logs -- ERROR -- Unsupported file format: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/BUIDCoYo- 235622 (Part-II)-16_DESIGN AND BUILD TWO SEWAGE TREATMENT PLANT OF INSTALLED CAPACITY 11 MLD_ Due Date 07-10-2024 0500 PM
+2024-12-09 16:44:20,260 -- processor_logs -- WARNING -- No text found in the document.
+2024-12-09 16:56:32,555 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-09 16:56:38,941 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (1).zip
+2024-12-09 16:56:38,948 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:56:38,948 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:56:38,948 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:56:38,988 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-12-09 16:56:38,988 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:56:38,994 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:56:38,994 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:56:41,348 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/06870_Lakh STP Bid Doc.pdf
+2024-12-09 16:56:41,349 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/06870_Lakh STP Bid Doc.pdf
+2024-12-09 16:56:41,349 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/06870_Lakh STP Bid Doc.pdf
+2024-12-09 16:56:49,734 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-12-09 16:56:49,734 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:56:50,838 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:56:50,838 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:56:53,381 -- tender_classification_logs -- INFO -- Processing file 3: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/00201_Lakh STP NIT.pdf
+2024-12-09 16:56:53,381 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/00201_Lakh STP NIT.pdf
+2024-12-09 16:56:53,381 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/00201_Lakh STP NIT.pdf
+2024-12-09 16:56:53,560 -- pdf_extractor_logs -- DEBUG -- Extracted text from 3 pages.
+2024-12-09 16:56:53,561 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:56:53,570 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:56:53,570 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:57:04,184 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 16:57:04,187 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:57:04,188 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:57:04,188 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:57:04,228 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-12-09 16:57:04,228 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:57:04,231 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:57:04,231 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:57:04,909 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/06870_Lakh STP Bid Doc.pdf
+2024-12-09 16:57:04,909 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/06870_Lakh STP Bid Doc.pdf
+2024-12-09 16:57:04,910 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/06870_Lakh STP Bid Doc.pdf
+2024-12-09 16:57:13,162 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-12-09 16:57:13,162 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:57:14,243 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:57:14,244 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:57:16,530 -- tender_classification_logs -- INFO -- Processing file 3: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Tech.pdf
+2024-12-09 16:57:16,531 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Tech.pdf
+2024-12-09 16:57:16,532 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Tech.pdf
+2024-12-09 16:57:17,616 -- pdf_extractor_logs -- DEBUG -- Extracted text from 30 pages.
+2024-12-09 16:57:17,616 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:57:17,722 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:57:17,722 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:57:18,686 -- tender_classification_logs -- INFO -- Processing file 4: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/00201_Lakh STP NIT.pdf
+2024-12-09 16:57:18,686 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/00201_Lakh STP NIT.pdf
+2024-12-09 16:57:18,687 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/00201_Lakh STP NIT.pdf
+2024-12-09 16:57:18,815 -- pdf_extractor_logs -- DEBUG -- Extracted text from 3 pages.
+2024-12-09 16:57:18,815 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:57:18,825 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:57:18,825 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:57:24,413 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 16:57:24,425 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:57:24,425 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:57:24,425 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:57:24,485 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-12-09 16:57:24,485 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:57:24,488 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:57:24,488 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:57:25,177 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 16:57:25,287 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:57:25,287 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:57:25,287 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/99940_Corrigendum 1 Lakh STP.pdf
+2024-12-09 16:57:25,323 -- pdf_extractor_logs -- DEBUG -- Extracted text from 1 pages.
+2024-12-09 16:57:25,324 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:57:25,327 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:57:25,327 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:57:26,352 -- tender_classification_logs -- INFO -- Processing file 2: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/06870_Lakh STP Bid Doc.pdf
+2024-12-09 16:57:26,353 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/06870_Lakh STP Bid Doc.pdf
+2024-12-09 16:57:26,353 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/06870_Lakh STP Bid Doc.pdf
+2024-12-09 16:57:32,462 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 16:57:32,633 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Tech.pdf
+2024-12-09 16:57:32,633 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Tech.pdf
+2024-12-09 16:57:32,634 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Tech.pdf
+2024-12-09 16:57:35,108 -- pdf_extractor_logs -- DEBUG -- Extracted text from 30 pages.
+2024-12-09 16:57:35,108 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:57:35,378 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:57:35,379 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:57:36,351 -- pdf_extractor_logs -- DEBUG -- Extracted text from 476 pages.
+2024-12-09 16:57:36,352 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:57:37,552 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:57:37,552 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:59:14,317 -- tender_classification_logs -- INFO -- Uploaded file: work_91262.zip
+2024-12-09 16:59:14,329 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-09 16:59:14,330 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-09 16:59:14,330 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Bairaomgathigaon.pdf
+2024-12-09 16:59:19,217 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-12-09 16:59:19,218 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:59:19,548 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:59:19,548 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:59:30,329 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (3).zip
+2024-12-09 16:59:30,333 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Tech.pdf
+2024-12-09 16:59:30,333 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Tech.pdf
+2024-12-09 16:59:30,333 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/Tech.pdf
+2024-12-09 16:59:31,456 -- pdf_extractor_logs -- DEBUG -- Extracted text from 30 pages.
+2024-12-09 16:59:31,457 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:59:31,568 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:59:31,568 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 16:59:40,341 -- tender_classification_logs -- INFO -- Uploaded file: OneDrive_2024-10-17 (2).zip
+2024-12-09 16:59:40,357 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_1.pdf
+2024-12-09 16:59:40,357 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_1.pdf
+2024-12-09 16:59:40,357 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/2400016259-HD-07350_1.pdf
+2024-12-09 16:59:49,986 -- pdf_extractor_logs -- DEBUG -- Extracted text from 289 pages.
+2024-12-09 16:59:49,986 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 16:59:50,611 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 16:59:50,611 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-09 17:00:07,342 -- tender_classification_logs -- INFO -- Uploaded file: gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 17:00:07,345 -- tender_classification_logs -- INFO -- Processing file 1: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 17:00:07,345 -- processor_logs -- INFO -- Processing tender document: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 17:00:07,345 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /home/cimcon/Desktop/Tender Usecases/Tender360/app/../data/permanent_upload_directory/gmdaheadit317014302124391.BidDocument01122023.pdf
+2024-12-09 17:00:15,715 -- pdf_extractor_logs -- DEBUG -- Extracted text from 194 pages.
+2024-12-09 17:00:15,715 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-12-09 17:00:16,173 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-12-09 17:00:16,173 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-12-11 15:00:29,632 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-11 15:00:52,780 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
+2024-12-11 15:01:11,132 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-11 15:03:26,682 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-11 15:03:58,754 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-11 15:37:40,168 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-11 15:44:01,765 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-11 15:57:26,915 -- data_utils_logs -- INFO -- Successfully loaded 480 documents.
+2024-12-11 15:58:00,501 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-11 16:11:14,873 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-12-11 16:12:50,891 -- data_utils_logs -- INFO -- Successfully loaded 30 documents.
+2024-12-11 16:13:01,646 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-11 16:31:03,924 -- data_utils_logs -- INFO -- Successfully loaded 289 documents.
+2024-12-11 16:31:31,089 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-11 16:36:53,529 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
+2024-12-11 16:37:17,333 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss

@@ -6,21 +6,11 @@ import json
 import pdfplumber  
 import pandas as pd
 import streamlit as st  # type: ignore
-import zipfile  # Added to handle ZIP files
 from langchain_google_genai import ChatGoogleGenerativeAI # type: ignore
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import google.generativeai as genai # type: ignore
 from dotenv import load_dotenv # type: ignore
-from urllib.parse import quote
-import shutil
-from langchain.prompts import PromptTemplate
-from langchain_community.vectorstores import FAISS # type: ignore
-from langchain.chains import RetrievalQA
 
 sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-
-from utils.data_utils import load_data, split_data, save_embeddings
-from utils.file_utils import save_uploaded_file, list_uploaded_files, delete_all_files_and_directories
 
 
 
