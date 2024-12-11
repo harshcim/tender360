@@ -8,3 +8,4 @@ python-docx
 faiss-cpu
 python-dotenv
 rarfile
+langchain-google-genai
