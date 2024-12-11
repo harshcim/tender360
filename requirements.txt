@@ -8,4 +8,3 @@ python-docx
 faiss-cpu
 python-dotenv
 rarfile
-pydantic==1.10.9

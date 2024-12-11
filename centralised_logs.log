@@ -785,3 +785,4 @@
 2024-12-11 16:31:31,089 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
 2024-12-11 16:36:53,529 -- data_utils_logs -- INFO -- Successfully loaded 194 documents.
 2024-12-11 16:37:17,333 -- data_utils_logs -- INFO -- FAISS vector database saved to /home/cimcon/Desktop/Tender Usecases/Tender360/utils/../data/vector_store.faiss
+2024-12-11 17:01:41,750 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
